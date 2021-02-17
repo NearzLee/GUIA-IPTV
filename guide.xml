@@ -16,8 +16,8 @@
     <display-name lang="es">Comedy Central</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Studio Universal">
-    <display-name lang="es">CNN En Español</display-name>
+  <channel id="NICK">
+    <display-name lang="es">NICK</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="HISTORY">
@@ -587,92 +587,203 @@
   <programme start="20210218235500 -0600" stop="20210219002000 -0600" channel="Comedy Central">
     <title lang="es">Yo soy Betty, la fea</title>
   </programme>
-  <programme start="20210217014000 -0600" stop="20210217041000 -0600" channel="Studio Universal">
-    <title lang="es">Los hijos de la calle</title>
+  <programme start="20210217002000 -0600" stop="20210217010000 -0600" channel="NICK">
+    <title lang="es">The Bureau of Magical Things</title>
   </programme>
-  <programme start="20210217041000 -0600" stop="20210217060000 -0600" channel="Studio Universal">
-    <title lang="es">La clase del '92</title>
+  <programme start="20210217010000 -0600" stop="20210217012000 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20210217060000 -0600" stop="20210217073500 -0600" channel="Studio Universal">
-    <title lang="es">Corazones de Navidad</title>
+  <programme start="20210217012000 -0600" stop="20210217014000 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20210217073500 -0600" stop="20210217090500 -0600" channel="Studio Universal">
-    <title lang="es">La Navidad perfecta</title>
+  <programme start="20210217014000 -0600" stop="20210217020500 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
   </programme>
-  <programme start="20210217090500 -0600" stop="20210217104000 -0600" channel="Studio Universal">
-    <title lang="es">Intercambio navideño</title>
+  <programme start="20210217020500 -0600" stop="20210217022500 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
   </programme>
-  <programme start="20210217104000 -0600" stop="20210217122000 -0600" channel="Studio Universal">
-    <title lang="es">Una Familia Para Navidad</title>
+  <programme start="20210217022500 -0600" stop="20210217024500 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
   </programme>
-  <programme start="20210217122000 -0600" stop="20210217123500 -0600" channel="Studio Universal">
-    <title lang="es">Close Up with the Hollywood R</title>
+  <programme start="20210217024500 -0600" stop="20210217031000 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
   </programme>
-  <programme start="20210217123500 -0600" stop="20210217144000 -0600" channel="Studio Universal">
-    <title lang="es">Volver al Futuro</title>
+  <programme start="20210217031000 -0600" stop="20210217033000 -0600" channel="NICK">
+    <title lang="es">WITS Academy</title>
   </programme>
-  <programme start="20210217144000 -0600" stop="20210217164000 -0600" channel="Studio Universal">
-    <title lang="es">Riesgo total</title>
+  <programme start="20210217033000 -0600" stop="20210217035000 -0600" channel="NICK">
+    <title lang="es">WITS Academy</title>
   </programme>
-  <programme start="20210217164000 -0600" stop="20210217181500 -0600" channel="Studio Universal">
-    <title lang="es">Rambo</title>
+  <programme start="20210217035000 -0600" stop="20210217041500 -0600" channel="NICK">
+    <title lang="es">Victorious</title>
   </programme>
-  <programme start="20210217181500 -0600" stop="20210217200000 -0600" channel="Studio Universal">
-    <title lang="es">Rambo II</title>
+  <programme start="20210217041500 -0600" stop="20210217043500 -0600" channel="NICK">
+    <title lang="es">Victorious</title>
   </programme>
-  <programme start="20210217200000 -0600" stop="20210217224500 -0600" channel="Studio Universal">
-    <title lang="es">Gladiador</title>
+  <programme start="20210217043500 -0600" stop="20210217050000 -0600" channel="NICK">
+    <title lang="es">Victorious</title>
   </programme>
-  <programme start="20210217224500 -0600" stop="20210218011500 -0600" channel="Studio Universal">
-    <title lang="es">Capitan de mar y guerra</title>
+  <programme start="20210217050000 -0600" stop="20210217052500 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
   </programme>
-  <programme start="20210218224500 -0600" stop="20210219011500 -0600" channel="Studio Universal">
-    <title lang="es">Capitan de mar y guerra</title>
+  <programme start="20210217052500 -0600" stop="20210217054500 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
   </programme>
-  <programme start="20210219011500 -0600" stop="20210219031500 -0600" channel="Studio Universal">
-    <title lang="es">De Mendigo A Millonario</title>
+  <programme start="20210217054500 -0600" stop="20210217061000 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
   </programme>
-  <programme start="20210219031500 -0600" stop="20210219051500 -0600" channel="Studio Universal">
-    <title lang="es">Senna</title>
+  <programme start="20210217061000 -0600" stop="20210217063000 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20210219051500 -0600" stop="20210219060000 -0600" channel="Studio Universal">
-    <title lang="es">Close Up with the Hollywood R</title>
+  <programme start="20210217063000 -0600" stop="20210217065500 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20210219060000 -0600" stop="20210219073000 -0600" channel="Studio Universal">
-    <title lang="es">Navidad en Holly Lane</title>
+  <programme start="20210217065500 -0600" stop="20210217071500 -0600" channel="NICK">
+    <title lang="es">Sam &amp; Cat</title>
   </programme>
-  <programme start="20210219073000 -0600" stop="20210219090500 -0600" channel="Studio Universal">
-    <title lang="es">Una Navidad para recordar</title>
+  <programme start="20210217071500 -0600" stop="20210217073500 -0600" channel="NICK">
+    <title lang="es">Sam &amp; Cat</title>
   </programme>
-  <programme start="20210219090500 -0600" stop="20210219104000 -0600" channel="Studio Universal">
-    <title lang="es">Poinsetias Para Navidad</title>
+  <programme start="20210217073500 -0600" stop="20210217080000 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
   </programme>
-  <programme start="20210219104000 -0600" stop="20210219122000 -0600" channel="Studio Universal">
-    <title lang="es">El Árbol En El Techo</title>
+  <programme start="20210217080000 -0600" stop="20210217082000 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
   </programme>
-  <programme start="20210219122000 -0600" stop="20210219123500 -0600" channel="Studio Universal">
-    <title lang="es">Close Up with the Hollywood R</title>
+  <programme start="20210217082000 -0600" stop="20210217084500 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
   </programme>
-  <programme start="20210219123500 -0600" stop="20210219143500 -0600" channel="Studio Universal">
-    <title lang="es">El abuelo que saltó</title>
+  <programme start="20210217084500 -0600" stop="20210217090500 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
   </programme>
-  <programme start="20210219143500 -0600" stop="20210219162000 -0600" channel="Studio Universal">
-    <title lang="es">Las vacaciones de Mr. Bean</title>
+  <programme start="20210217090500 -0600" stop="20210217092500 -0600" channel="NICK">
+    <title lang="es">I Am Frankie</title>
   </programme>
-  <programme start="20210219162000 -0600" stop="20210219182500 -0600" channel="Studio Universal">
-    <title lang="es">Patch Adams</title>
+  <programme start="20210217092500 -0600" stop="20210217094500 -0600" channel="NICK">
+    <title lang="es">I Am Frankie</title>
   </programme>
-  <programme start="20210219182500 -0600" stop="20210219200000 -0600" channel="Studio Universal">
-    <title lang="es">Mentiroso, mentiroso</title>
+  <programme start="20210217094500 -0600" stop="20210217101000 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20210219200000 -0600" stop="20210219214500 -0600" channel="Studio Universal">
-    <title lang="es">El Profesor Chiflado</title>
+  <programme start="20210217101000 -0600" stop="20210217103500 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20210219214500 -0600" stop="20210219235000 -0600" channel="Studio Universal">
-    <title lang="es">De Mendigo A Millonario</title>
+  <programme start="20210217103500 -0600" stop="20210217105500 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
   </programme>
-  <programme start="20210219235000 -0600" stop="20210220014500 -0600" channel="Studio Universal">
-    <title lang="es">El secreto de mi exito</title>
+  <programme start="20210217105500 -0600" stop="20210217112000 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210217112000 -0600" stop="20210217114000 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
+  </programme>
+  <programme start="20210217114000 -0600" stop="20210217120000 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
+  </programme>
+  <programme start="20210217120000 -0600" stop="20210217122500 -0600" channel="NICK">
+    <title lang="es">The Bureau of Magical Things</title>
+  </programme>
+  <programme start="20210217122500 -0600" stop="20210217124700 -0600" channel="NICK">
+    <title lang="es">The Bureau of Magical Things</title>
+  </programme>
+  <programme start="20210217124700 -0600" stop="20210217130700 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20210217130700 -0600" stop="20210217132700 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20210217132700 -0600" stop="20210217135200 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20210217135200 -0600" stop="20210217141500 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20210217141500 -0600" stop="20210217143500 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
+  </programme>
+  <programme start="20210217143500 -0600" stop="20210217150000 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
+  </programme>
+  <programme start="20210217150000 -0600" stop="20210217152000 -0600" channel="NICK">
+    <title lang="es">WITS Academy</title>
+  </programme>
+  <programme start="20210217152000 -0600" stop="20210217154500 -0600" channel="NICK">
+    <title lang="es">WITS Academy</title>
+  </programme>
+  <programme start="20210217154500 -0600" stop="20210217160500 -0600" channel="NICK">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20210217160500 -0600" stop="20210217163000 -0600" channel="NICK">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20210217163000 -0600" stop="20210217165000 -0600" channel="NICK">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20210217165000 -0600" stop="20210217171500 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210217171500 -0600" stop="20210217173500 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210217173500 -0600" stop="20210217180000 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210217180000 -0600" stop="20210217182000 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
+  </programme>
+  <programme start="20210217182000 -0600" stop="20210217184500 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
+  </programme>
+  <programme start="20210217184500 -0600" stop="20210217190500 -0600" channel="NICK">
+    <title lang="es">Sam &amp; Cat</title>
+  </programme>
+  <programme start="20210217190500 -0600" stop="20210217193000 -0600" channel="NICK">
+    <title lang="es">Sam &amp; Cat</title>
+  </programme>
+  <programme start="20210217193000 -0600" stop="20210217195000 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20210217195000 -0600" stop="20210217201000 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20210217201000 -0600" stop="20210217203500 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
+  </programme>
+  <programme start="20210217203500 -0600" stop="20210217205500 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
+  </programme>
+  <programme start="20210217205500 -0600" stop="20210217212000 -0600" channel="NICK">
+    <title lang="es">I Am Frankie</title>
+  </programme>
+  <programme start="20210217212000 -0600" stop="20210217214000 -0600" channel="NICK">
+    <title lang="es">I Am Frankie</title>
+  </programme>
+  <programme start="20210217214000 -0600" stop="20210217220000 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20210217220000 -0600" stop="20210217222500 -0600" channel="NICK">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20210217222500 -0600" stop="20210217224500 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210217224500 -0600" stop="20210217231000 -0600" channel="NICK">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20210217231000 -0600" stop="20210217233000 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
+  </programme>
+  <programme start="20210217233000 -0600" stop="20210217235500 -0600" channel="NICK">
+    <title lang="es">Big Time Rush</title>
+  </programme>
+  <programme start="20210218014000 -0600" stop="20210218020500 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20210218195000 -0600" stop="20210218201500 -0600" channel="NICK">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20210218201500 -0600" stop="20210218203500 -0600" channel="NICK">
+    <title lang="es">Bella and The Bulldogs</title>
   </programme>
   <programme start="20210217002000 -0600" stop="20210217004500 -0600" channel="HISTORY">
     <title lang="es">El Precio de la Historia</title>
