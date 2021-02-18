@@ -16,8 +16,8 @@
     <display-name lang="es">Comedy Central</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Las Estrellas">
-    <display-name lang="es">Las Estrellas</display-name>
+  <channel id="Studio Universal">
+    <display-name lang="es">Studio Universal</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="HISTORY">
@@ -105,7 +105,7 @@
     <title lang="es">Hechos AM</title>
   </programme>
   <programme start="20210217080000 -0600" stop="20210217090000 -0600" channel="Azteca Uno">
-    <title lang="es">Hechos Aquí entre nos</title>
+    <title lang="es">Hechos: Aquí entre nos</title>
   </programme>
   <programme start="20210217090000 -0600" stop="20210217110000 -0600" channel="Azteca Uno">
     <title lang="es">Venga la alegría En Vivo</title>
@@ -143,8 +143,8 @@
   <programme start="20210217234500 -0600" stop="20210218001500 -0600" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20210218110000 -0600" stop="20210218130000 -0600" channel="Azteca Uno">
-    <title lang="es">Venga la alegría En Vivo</title>
+  <programme start="20210218173000 -0600" stop="20210218193000 -0600" channel="Azteca Uno">
+    <title lang="es">Al extremo</title>
   </programme>
   <programme start="20210217010000 -0600" stop="20210217013000 -0600" channel="Canal 5">
     <title lang="es">Estatus</title>
@@ -233,9 +233,6 @@
   <programme start="20210218090000 -0600" stop="20210218093000 -0600" channel="Canal 5">
     <title lang="es">PAW Patrol</title>
   </programme>
-  <programme start="20210218120000 -0600" stop="20210218130000 -0600" channel="Canal 5">
-    <title lang="es">Los Padrinos Mágicos</title>
-  </programme>
   <programme start="20210218130000 -0600" stop="20210218140000 -0600" channel="Canal 5">
     <title lang="es">Miraculous II</title>
   </programme>
@@ -309,7 +306,7 @@
     <title lang="es">Almas perdidas</title>
   </programme>
   <programme start="20210217213000 -0600" stop="20210217233000 -0600" channel="Azteca 7">
-    <title lang="es">Magnum P. I</title>
+    <title lang="es">Magnum P.I</title>
   </programme>
   <programme start="20210217233000 -0600" stop="20210218000000 -0600" channel="Azteca 7">
     <title lang="es">Bones</title>
@@ -381,7 +378,7 @@
     <title lang="es">Almas perdidas</title>
   </programme>
   <programme start="20210218213000 -0600" stop="20210218233000 -0600" channel="Azteca 7">
-    <title lang="es">Magnum P. I</title>
+    <title lang="es">Magnum P.I</title>
   </programme>
   <programme start="20210218233000 -0600" stop="20210219003000 -0600" channel="Azteca 7">
     <title lang="es">Bones</title>
@@ -590,77 +587,92 @@
   <programme start="20210218235500 -0600" stop="20210219002000 -0600" channel="Comedy Central">
     <title lang="es">Yo soy Betty, la fea</title>
   </programme>
-  <programme start="20210217010000 -0600" stop="20210217043000 -0600" channel="Las Estrellas">
-    <title lang="es">Paid Programing</title>
+  <programme start="20210217014000 -0600" stop="20210217041000 -0600" channel="Studio Universal">
+    <title lang="es">Los hijos de la calle</title>
   </programme>
-  <programme start="20210217043000 -0600" stop="20210217050000 -0600" channel="Las Estrellas">
-    <title lang="es">Veredicto Final</title>
+  <programme start="20210217041000 -0600" stop="20210217060000 -0600" channel="Studio Universal">
+    <title lang="es">La clase del '92</title>
   </programme>
-  <programme start="20210217050000 -0600" stop="20210217053000 -0600" channel="Las Estrellas">
-    <title lang="es">Paid Programming</title>
+  <programme start="20210217060000 -0600" stop="20210217073500 -0600" channel="Studio Universal">
+    <title lang="es">Corazones de Navidad</title>
   </programme>
-  <programme start="20210217053000 -0600" stop="20210217060000 -0600" channel="Las Estrellas">
-    <title lang="es">Farmacias de similares</title>
+  <programme start="20210217073500 -0600" stop="20210217090500 -0600" channel="Studio Universal">
+    <title lang="es">La Navidad perfecta</title>
   </programme>
-  <programme start="20210217060000 -0600" stop="20210217063000 -0600" channel="Las Estrellas">
-    <title lang="es">Las noticias En Vivo</title>
+  <programme start="20210217090500 -0600" stop="20210217104000 -0600" channel="Studio Universal">
+    <title lang="es">Intercambio navideño</title>
   </programme>
-  <programme start="20210217063000 -0600" stop="20210217080000 -0600" channel="Las Estrellas">
-    <title lang="es">Despierta En Vivo</title>
+  <programme start="20210217104000 -0600" stop="20210217122000 -0600" channel="Studio Universal">
+    <title lang="es">Una Familia Para Navidad</title>
   </programme>
-  <programme start="20210217080000 -0600" stop="20210217090000 -0600" channel="Las Estrellas">
-    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  <programme start="20210217122000 -0600" stop="20210217123500 -0600" channel="Studio Universal">
+    <title lang="es">Close Up with the Hollywood R</title>
   </programme>
-  <programme start="20210217090000 -0600" stop="20210217120000 -0600" channel="Las Estrellas">
-    <title lang="es">Hoy En Vivo</title>
+  <programme start="20210217123500 -0600" stop="20210217144000 -0600" channel="Studio Universal">
+    <title lang="es">Volver al Futuro</title>
   </programme>
-  <programme start="20210217120000 -0600" stop="20210217133000 -0600" channel="Las Estrellas">
-    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  <programme start="20210217144000 -0600" stop="20210217164000 -0600" channel="Studio Universal">
+    <title lang="es">Riesgo total</title>
   </programme>
-  <programme start="20210217133000 -0600" stop="20210217143000 -0600" channel="Las Estrellas">
-    <title lang="es">Recuerda y Gana</title>
+  <programme start="20210217164000 -0600" stop="20210217181500 -0600" channel="Studio Universal">
+    <title lang="es">Rambo</title>
   </programme>
-  <programme start="20210217143000 -0600" stop="20210217153000 -0600" channel="Las Estrellas">
-    <title lang="es">Corazón Indomable</title>
+  <programme start="20210217181500 -0600" stop="20210217200000 -0600" channel="Studio Universal">
+    <title lang="es">Rambo II</title>
   </programme>
-  <programme start="20210217153000 -0600" stop="20210217163000 -0600" channel="Las Estrellas">
-    <title lang="es">Quererlo Todo</title>
+  <programme start="20210217200000 -0600" stop="20210217224500 -0600" channel="Studio Universal">
+    <title lang="es">Gladiador</title>
   </programme>
-  <programme start="20210217163000 -0600" stop="20210217173000 -0600" channel="Las Estrellas">
-    <title lang="es">Mañana es para Siempre</title>
+  <programme start="20210217224500 -0600" stop="20210218011500 -0600" channel="Studio Universal">
+    <title lang="es">Capitan de mar y guerra</title>
   </programme>
-  <programme start="20210217173000 -0600" stop="20210217183000 -0600" channel="Las Estrellas">
-    <title lang="es">Como dice el dicho</title>
+  <programme start="20210218224500 -0600" stop="20210219011500 -0600" channel="Studio Universal">
+    <title lang="es">Capitan de mar y guerra</title>
   </programme>
-  <programme start="20210217183000 -0600" stop="20210217193000 -0600" channel="Las Estrellas">
-    <title lang="es">Fuego Ardiente</title>
+  <programme start="20210219011500 -0600" stop="20210219031500 -0600" channel="Studio Universal">
+    <title lang="es">De Mendigo A Millonario</title>
   </programme>
-  <programme start="20210217193000 -0600" stop="20210217203000 -0600" channel="Las Estrellas">
-    <title lang="es">La Rosa de Guadalupe</title>
+  <programme start="20210219031500 -0600" stop="20210219051500 -0600" channel="Studio Universal">
+    <title lang="es">Senna</title>
   </programme>
-  <programme start="20210217203000 -0600" stop="20210217213000 -0600" channel="Las Estrellas">
-    <title lang="es">Vencer el Desamor</title>
+  <programme start="20210219051500 -0600" stop="20210219060000 -0600" channel="Studio Universal">
+    <title lang="es">Close Up with the Hollywood R</title>
   </programme>
-  <programme start="20210217213000 -0600" stop="20210217223000 -0600" channel="Las Estrellas">
-    <title lang="es">Te acuerdas de mí</title>
+  <programme start="20210219060000 -0600" stop="20210219073000 -0600" channel="Studio Universal">
+    <title lang="es">Navidad en Holly Lane</title>
   </programme>
-  <programme start="20210217223000 -0600" stop="20210217230000 -0600" channel="Las Estrellas">
-    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  <programme start="20210219073000 -0600" stop="20210219090500 -0600" channel="Studio Universal">
+    <title lang="es">Una Navidad para recordar</title>
   </programme>
-  <programme start="20210217230000 -0600" stop="20210218000000 -0600" channel="Las Estrellas">
-    <title lang="es">Tercer Grado</title>
+  <programme start="20210219090500 -0600" stop="20210219104000 -0600" channel="Studio Universal">
+    <title lang="es">Poinsetias Para Navidad</title>
   </programme>
-  <programme start="20210218120000 -0600" stop="20210218133000 -0600" channel="Las Estrellas">
-    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  <programme start="20210219104000 -0600" stop="20210219122000 -0600" channel="Studio Universal">
+    <title lang="es">El Árbol En El Techo</title>
   </programme>
-  <programme start="20210218133000 -0600" stop="20210218143000 -0600" channel="Las Estrellas">
-    <title lang="es">Minuto para Ganar</title>
+  <programme start="20210219122000 -0600" stop="20210219123500 -0600" channel="Studio Universal">
+    <title lang="es">Close Up with the Hollywood R</title>
   </programme>
-  <programme start="20210218230000 -0600" stop="20210218233000 -0600" channel="Las Estrellas">
-    <title lang="es">Renta Congelada</title>
+  <programme start="20210219123500 -0600" stop="20210219143500 -0600" channel="Studio Universal">
+    <title lang="es">El abuelo que saltó</title>
   </programme>
-  <programme start="20210218233000 -0600" stop="20210219000000 -0600" channel="Las Estrellas">
-    <title lang="es">Contacto deportivo En Vivo</title>
+  <programme start="20210219143500 -0600" stop="20210219162000 -0600" channel="Studio Universal">
+    <title lang="es">Las vacaciones de Mr. Bean</title>
+  </programme>
+  <programme start="20210219162000 -0600" stop="20210219182500 -0600" channel="Studio Universal">
+    <title lang="es">Patch Adams</title>
+  </programme>
+  <programme start="20210219182500 -0600" stop="20210219200000 -0600" channel="Studio Universal">
+    <title lang="es">Mentiroso, mentiroso</title>
+  </programme>
+  <programme start="20210219200000 -0600" stop="20210219214500 -0600" channel="Studio Universal">
+    <title lang="es">El Profesor Chiflado</title>
+  </programme>
+  <programme start="20210219214500 -0600" stop="20210219235000 -0600" channel="Studio Universal">
+    <title lang="es">De Mendigo A Millonario</title>
+  </programme>
+  <programme start="20210219235000 -0600" stop="20210220014500 -0600" channel="Studio Universal">
+    <title lang="es">El secreto de mi exito</title>
   </programme>
   <programme start="20210217002000 -0600" stop="20210217004500 -0600" channel="HISTORY">
     <title lang="es">El Precio de la Historia</title>
@@ -1578,7 +1590,7 @@
     <title lang="es">Chef a domicilio</title>
   </programme>
   <programme start="20210217194000 -0600" stop="20210217212500 -0600" channel="Sony">
-    <title lang="es">Justin el caballero valiente</title>
+    <title lang="es">Justin, el Caballero Valiente</title>
   </programme>
   <programme start="20210217212500 -0600" stop="20210217231500 -0600" channel="Sony">
     <title lang="es">Chiquito pero peligroso</title>
@@ -1869,7 +1881,7 @@
     <title lang="es">Experta en bodas</title>
   </programme>
   <programme start="20210217143500 -0600" stop="20210217162500 -0600" channel="AMC">
-    <title lang="es">Defendor Un héroe sin igual</title>
+    <title lang="es">Defendor, un héroe sin igual</title>
   </programme>
   <programme start="20210217162500 -0600" stop="20210217183000 -0600" channel="AMC">
     <title lang="es">Comando especial 2</title>
@@ -2154,10 +2166,10 @@
     <title lang="es">La ley y el orden UVE</title>
   </programme>
   <programme start="20210217215000 -0600" stop="20210217224000 -0600" channel="Universal Channel">
-    <title lang="es">Magnum P. I</title>
+    <title lang="es">Magnum P.I</title>
   </programme>
   <programme start="20210217224000 -0600" stop="20210217233000 -0600" channel="Universal Channel">
-    <title lang="es">Magnum P. I</title>
+    <title lang="es">Magnum P.I</title>
   </programme>
   <programme start="20210217233000 -0600" stop="20210218002000 -0600" channel="Universal Channel">
     <title lang="es">Chicago PD</title>
