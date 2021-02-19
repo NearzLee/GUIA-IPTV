@@ -12,8 +12,8 @@
     <display-name lang="es">Azteca 7</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Comedy Central">
-    <display-name lang="es">Comedy Central</display-name>
+  <channel id="Discovery h&amp;h">
+    <display-name lang="es">Discovery h&amp;h</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Studio Universal">
@@ -76,8 +76,8 @@
     <display-name lang="es">FOX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Cartoon Network">
-    <display-name lang="es">Cartoon Network</display-name>
+  <channel id="FOX Movies">
+    <display-name lang="es">FOX Movies</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210218001500 -0600" stop="20210218003000 -0600" channel="Azteca Uno">
@@ -96,7 +96,7 @@
     <title lang="es">Que Cotorreo</title>
   </programme>
   <programme start="20210218053000 -0600" stop="20210218061500 -0600" channel="Azteca Uno">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218061500 -0600" stop="20210218070000 -0600" channel="Azteca Uno">
     <title lang="es">Primera Línea</title>
@@ -143,9 +143,6 @@
   <programme start="20210218234500 -0600" stop="20210219001500 -0600" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20210219140000 -0600" stop="20210219150000 -0600" channel="Azteca Uno">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
   <programme start="20210219150000 -0600" stop="20210219173000 -0600" channel="Azteca Uno">
     <title lang="es">Ventaneando</title>
   </programme>
@@ -165,16 +162,16 @@
     <title lang="es">Campañeando</title>
   </programme>
   <programme start="20210218020000 -0600" stop="20210218040000 -0600" channel="Canal 5">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218040000 -0600" stop="20210218043000 -0600" channel="Canal 5">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218043000 -0600" stop="20210218050000 -0600" channel="Canal 5">
     <title lang="es">Lo mejor de Aqui y Ahora</title>
   </programme>
   <programme start="20210218050000 -0600" stop="20210218063000 -0600" channel="Canal 5">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218063000 -0600" stop="20210218070000 -0600" channel="Canal 5">
     <title lang="es">Masha y el Oso</title>
@@ -231,7 +228,7 @@
     <title lang="es">Inseparables Amor al Límite</title>
   </programme>
   <programme start="20210219000000 -0600" stop="20210219010000 -0600" channel="Canal 5">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210219010000 -0600" stop="20210219020000 -0600" channel="Canal 5">
     <title lang="es">México Nuevo Siglo</title>
@@ -240,7 +237,7 @@
     <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20210219050000 -0600" stop="20210219053000 -0600" channel="Canal 5">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210219053000 -0600" stop="20210219063000 -0600" channel="Canal 5">
     <title lang="es">Soy sano</title>
@@ -282,19 +279,19 @@
     <title lang="es">Geo-Tormenta</title>
   </programme>
   <programme start="20210218010000 -0600" stop="20210218030000 -0600" channel="Azteca 7">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218030000 -0600" stop="20210218050000 -0600" channel="Azteca 7">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218050000 -0600" stop="20210218051500 -0600" channel="Azteca 7">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218051500 -0600" stop="20210218053000 -0600" channel="Azteca 7">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20210218053000 -0600" stop="20210218063000 -0600" channel="Azteca 7">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210218063000 -0600" stop="20210218070000 -0600" channel="Azteca 7">
     <title lang="es">El Reino Infantil</title>
@@ -324,10 +321,10 @@
     <title lang="es">Los Picapiedra</title>
   </programme>
   <programme start="20210218123000 -0600" stop="20210218131500 -0600" channel="Azteca 7">
-    <title lang="es">Transformers Cyberverse</title>
+    <title lang="es">Transformers: Cyberverse</title>
   </programme>
   <programme start="20210218131500 -0600" stop="20210218140000 -0600" channel="Azteca 7">
-    <title lang="es">Power Rangers Beast Morphers</title>
+    <title lang="es">Power Rangers: Beast Morphers</title>
   </programme>
   <programme start="20210218140000 -0600" stop="20210218151500 -0600" channel="Azteca 7">
     <title lang="es">Alvin y las ardillas</title>
@@ -354,13 +351,13 @@
     <title lang="es">Bones</title>
   </programme>
   <programme start="20210220003000 -0600" stop="20210220021500 -0600" channel="Azteca 7">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210220021500 -0600" stop="20210220041500 -0600" channel="Azteca 7">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210220041500 -0600" stop="20210220051500 -0600" channel="Azteca 7">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210220063000 -0600" stop="20210220070000 -0600" channel="Azteca 7">
     <title lang="es">Chuggington</title>
@@ -381,13 +378,10 @@
     <title lang="es">Los Picapiedra</title>
   </programme>
   <programme start="20210220121500 -0600" stop="20210220123000 -0600" channel="Azteca 7">
-    <title lang="es">Power Rangers Beast Morphers</title>
+    <title lang="es">Power Rangers: Beast Morphers</title>
   </programme>
   <programme start="20210220123000 -0600" stop="20210220140000 -0600" channel="Azteca 7">
-    <title lang="es">Transformers Cyberverse</title>
-  </programme>
-  <programme start="20210220140000 -0600" stop="20210220151500 -0600" channel="Azteca 7">
-    <title lang="es">Alvin y las ardillas</title>
+    <title lang="es">Transformers: Cyberverse</title>
   </programme>
   <programme start="20210220151500 -0600" stop="20210220164500 -0600" channel="Azteca 7">
     <title lang="es">El Increíble Mundo de Gumball</title>
@@ -403,213 +397,6 @@
   </programme>
   <programme start="20210220233000 -0600" stop="20210221000000 -0600" channel="Azteca 7">
     <title lang="es">Extranormal</title>
-  </programme>
-  <programme start="20210218002000 -0600" stop="20210218004500 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210218004500 -0600" stop="20210218011000 -0600" channel="Comedy Central">
-    <title lang="es">Backdoor</title>
-  </programme>
-  <programme start="20210218011000 -0600" stop="20210218013500 -0600" channel="Comedy Central">
-    <title lang="es">Backdoor</title>
-  </programme>
-  <programme start="20210218013500 -0600" stop="20210218020000 -0600" channel="Comedy Central">
-    <title lang="es">Drunk History MX</title>
-  </programme>
-  <programme start="20210218020000 -0600" stop="20210218022500 -0600" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20210218022500 -0600" stop="20210218025000 -0600" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20210218025000 -0600" stop="20210218031500 -0600" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20210218031500 -0600" stop="20210218034000 -0600" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20210218034000 -0600" stop="20210218040500 -0600" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20210218040500 -0600" stop="20210218043000 -0600" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20210218043000 -0600" stop="20210218050000 -0600" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20210218050000 -0600" stop="20210218053000 -0600" channel="Comedy Central">
-    <title lang="es">Lip Sync Battle</title>
-  </programme>
-  <programme start="20210218053000 -0600" stop="20210218060000 -0600" channel="Comedy Central">
-    <title lang="es">Lip Sync Battle</title>
-  </programme>
-  <programme start="20210218060000 -0600" stop="20210218062500 -0600" channel="Comedy Central">
-    <title lang="es">La Casa de los Dibujos</title>
-  </programme>
-  <programme start="20210218062500 -0600" stop="20210218065000 -0600" channel="Comedy Central">
-    <title lang="es">Ugly Americans</title>
-  </programme>
-  <programme start="20210218065000 -0600" stop="20210218071500 -0600" channel="Comedy Central">
-    <title lang="es">Ren &amp; Stimpy</title>
-  </programme>
-  <programme start="20210218071500 -0600" stop="20210218074000 -0600" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20210218074000 -0600" stop="20210218090500 -0600" channel="Comedy Central">
-    <title lang="es">La que se avecina</title>
-  </programme>
-  <programme start="20210218090500 -0600" stop="20210218093500 -0600" channel="Comedy Central">
-    <title lang="es">The office</title>
-  </programme>
-  <programme start="20210218093500 -0600" stop="20210218100000 -0600" channel="Comedy Central">
-    <title lang="es">The office</title>
-  </programme>
-  <programme start="20210218100000 -0600" stop="20210218103000 -0600" channel="Comedy Central">
-    <title lang="es">Todo el mundo odia a Chris</title>
-  </programme>
-  <programme start="20210218103000 -0600" stop="20210218105500 -0600" channel="Comedy Central">
-    <title lang="es">Todo el mundo odia a Chris</title>
-  </programme>
-  <programme start="20210218105500 -0600" stop="20210218115000 -0600" channel="Comedy Central">
-    <title lang="es">Mi corazón es tuyo</title>
-  </programme>
-  <programme start="20210218115000 -0600" stop="20210218121500 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210218121500 -0600" stop="20210218124500 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210218124500 -0600" stop="20210218131000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210218131000 -0600" stop="20210218140500 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210218140500 -0600" stop="20210218150000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210218150000 -0600" stop="20210218155500 -0600" channel="Comedy Central">
-    <title lang="es">Mi corazón es tuyo</title>
-  </programme>
-  <programme start="20210218155500 -0600" stop="20210218162500 -0600" channel="Comedy Central">
-    <title lang="es">Backdoor</title>
-  </programme>
-  <programme start="20210218162500 -0600" stop="20210218165000 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210218165000 -0600" stop="20210218172000 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210218172000 -0600" stop="20210218181500 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210218181500 -0600" stop="20210218191000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210218191000 -0600" stop="20210218193500 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210218193500 -0600" stop="20210218200000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210218200000 -0600" stop="20210218203000 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210218203000 -0600" stop="20210218210000 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210218210000 -0600" stop="20210218213000 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210218213000 -0600" stop="20210218220000 -0600" channel="Comedy Central">
-    <title lang="es">Nosotros los guapos</title>
-  </programme>
-  <programme start="20210218220000 -0600" stop="20210218223000 -0600" channel="Comedy Central">
-    <title lang="es">Nosotros los guapos</title>
-  </programme>
-  <programme start="20210218223000 -0600" stop="20210218230000 -0600" channel="Comedy Central">
-    <title lang="es">Nosotros los guapos</title>
-  </programme>
-  <programme start="20210218230000 -0600" stop="20210218233000 -0600" channel="Comedy Central">
-    <title lang="es">Backdoor</title>
-  </programme>
-  <programme start="20210218233000 -0600" stop="20210218235500 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210218235500 -0600" stop="20210219002000 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210219004500 -0600" stop="20210219011000 -0600" channel="Comedy Central">
-    <title lang="es">Se rentan Cuartos</title>
-  </programme>
-  <programme start="20210219011000 -0600" stop="20210219013500 -0600" channel="Comedy Central">
-    <title lang="es">Se rentan Cuartos</title>
-  </programme>
-  <programme start="20210219013500 -0600" stop="20210219020000 -0600" channel="Comedy Central">
-    <title lang="es">Ana</title>
-  </programme>
-  <programme start="20210219124500 -0600" stop="20210219131000 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210219131000 -0600" stop="20210219134000 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210219134000 -0600" stop="20210219140500 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210219140500 -0600" stop="20210219143500 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210219143500 -0600" stop="20210219150000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210219155500 -0600" stop="20210219170500 -0600" channel="Comedy Central">
-    <title lang="es">La culpa es de la Malinche</title>
-  </programme>
-  <programme start="20210219170500 -0600" stop="20210219173000 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210219173000 -0600" stop="20210219175500 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210219175500 -0600" stop="20210219182000 -0600" channel="Comedy Central">
-    <title lang="es">Nosotros los guapos</title>
-  </programme>
-  <programme start="20210219182000 -0600" stop="20210219184500 -0600" channel="Comedy Central">
-    <title lang="es">Nosotros los guapos</title>
-  </programme>
-  <programme start="20210219184500 -0600" stop="20210219191000 -0600" channel="Comedy Central">
-    <title lang="es">Nosotros los guapos</title>
-  </programme>
-  <programme start="20210219191000 -0600" stop="20210219193500 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210219193500 -0600" stop="20210219200000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210219200000 -0600" stop="20210219202500 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210219202500 -0600" stop="20210219205000 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210219205000 -0600" stop="20210219212000 -0600" channel="Comedy Central">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20210219212000 -0600" stop="20210219214500 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210219214500 -0600" stop="20210219221000 -0600" channel="Comedy Central">
-    <title lang="es">La Familia P.Luche</title>
-  </programme>
-  <programme start="20210219221000 -0600" stop="20210219224000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210219224000 -0600" stop="20210219230500 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210219230500 -0600" stop="20210219233000 -0600" channel="Comedy Central">
-    <title lang="es">Vecinos</title>
   </programme>
   <programme start="20210218011500 -0600" stop="20210218031500 -0600" channel="Studio Universal">
     <title lang="es">De Mendigo A Millonario</title>
@@ -948,13 +735,13 @@
     <title lang="es">Tras la pista del oro</title>
   </programme>
   <programme start="20210218093200 -0600" stop="20210218102400 -0600" channel="Discovery Channel">
-    <title lang="es">Alaska Hombres primitivos</title>
+    <title lang="es">Alaska: Hombres primitivos</title>
   </programme>
   <programme start="20210218102400 -0600" stop="20210218111600 -0600" channel="Discovery Channel">
-    <title lang="es">Alaska Hombres primitivos</title>
+    <title lang="es">Alaska: Hombres primitivos</title>
   </programme>
   <programme start="20210218111600 -0600" stop="20210218120800 -0600" channel="Discovery Channel">
-    <title lang="es">Alaska Hombres primitivos</title>
+    <title lang="es">Alaska: Hombres primitivos</title>
   </programme>
   <programme start="20210218120800 -0600" stop="20210218130000 -0600" channel="Discovery Channel">
     <title lang="es">Sala de emergencias Historia</title>
@@ -1026,13 +813,13 @@
     <title lang="es">Tras la pista del oro</title>
   </programme>
   <programme start="20210219093200 -0600" stop="20210219102400 -0600" channel="Discovery Channel">
-    <title lang="es">Alaska Hombres primitivos</title>
+    <title lang="es">Alaska: Hombres primitivos</title>
   </programme>
   <programme start="20210219102400 -0600" stop="20210219111600 -0600" channel="Discovery Channel">
-    <title lang="es">Alaska Hombres primitivos</title>
+    <title lang="es">Alaska: Hombres primitivos</title>
   </programme>
   <programme start="20210219111600 -0600" stop="20210219120800 -0600" channel="Discovery Channel">
-    <title lang="es">Alaska Hombres primitivos</title>
+    <title lang="es">Alaska: Hombres primitivos</title>
   </programme>
   <programme start="20210219120800 -0600" stop="20210219130000 -0600" channel="Discovery Channel">
     <title lang="es">Sala de emergencias Historia</title>
@@ -1307,52 +1094,58 @@
   <programme start="20210218143800 -0600" stop="20210218163100 -0600" channel="CineCanal">
     <title lang="es">Casper</title>
   </programme>
-  <programme start="20210218163100 -0600" stop="20210218180000 -0600" channel="CineCanal">
+  <programme start="20210218163100 -0600" stop="20210218181300 -0600" channel="CineCanal">
     <title lang="es">Tripulación Dave</title>
   </programme>
-  <programme start="20210218180000 -0600" stop="20210218200000 -0600" channel="CineCanal">
-    <title lang="es">Angry Birds La Película</title>
+  <programme start="20210218181300 -0600" stop="20210218200300 -0600" channel="CineCanal">
+    <title lang="es">Angry Birds: La película</title>
   </programme>
-  <programme start="20210218200000 -0600" stop="20210218220000 -0600" channel="CineCanal">
+  <programme start="20210218200300 -0600" stop="20210218220000 -0600" channel="CineCanal">
     <title lang="es">Los Pitufos 2</title>
   </programme>
-  <programme start="20210218220000 -0600" stop="20210219001000 -0600" channel="CineCanal">
+  <programme start="20210218220000 -0600" stop="20210218234300 -0600" channel="CineCanal">
     <title lang="es">Kung Fu Panda</title>
   </programme>
-  <programme start="20210219001000 -0600" stop="20210219010000 -0600" channel="CineCanal">
+  <programme start="20210218234300 -0600" stop="20210219001000 -0600" channel="CineCanal">
     <title lang="es">Kung Fu Panda 2</title>
   </programme>
-  <programme start="20210219010000 -0600" stop="20210219040000 -0600" channel="CineCanal">
-    <title lang="es">Mike y Dave Los busca novias</title>
+  <programme start="20210219234300 -0600" stop="20210220001000 -0600" channel="CineCanal">
+    <title lang="es">Kung Fu Panda 2</title>
   </programme>
-  <programme start="20210219040000 -0600" stop="20210219060000 -0600" channel="CineCanal">
+  <programme start="20210220001000 -0600" stop="20210220010000 -0600" channel="CineCanal">
+    <title lang="es">Kung Fu Panda 2</title>
+  </programme>
+  <programme start="20210220010000 -0600" stop="20210220040000 -0600" channel="CineCanal">
+    <title lang="es">Mike y Dave: Los busca novias</title>
+  </programme>
+  <programme start="20210220040000 -0600" stop="20210220060000 -0600" channel="CineCanal">
     <title lang="es">En lucha incierta</title>
   </programme>
-  <programme start="20210219060000 -0600" stop="20210219080000 -0600" channel="CineCanal">
+  <programme start="20210220060000 -0600" stop="20210220080000 -0600" channel="CineCanal">
     <title lang="es">En lucha incierta</title>
   </programme>
-  <programme start="20210219080000 -0600" stop="20210219083000 -0600" channel="CineCanal">
+  <programme start="20210220080000 -0600" stop="20210220083000 -0600" channel="CineCanal">
     <title lang="es">En lucha incierta</title>
   </programme>
-  <programme start="20210219083000 -0600" stop="20210219105000 -0600" channel="CineCanal">
+  <programme start="20210220083000 -0600" stop="20210220105000 -0600" channel="CineCanal">
     <title lang="es">Un policía y medio 2</title>
   </programme>
-  <programme start="20210219105000 -0600" stop="20210219124000 -0600" channel="CineCanal">
+  <programme start="20210220105000 -0600" stop="20210220124000 -0600" channel="CineCanal">
     <title lang="es">Una casa patas arriba</title>
   </programme>
-  <programme start="20210219124000 -0600" stop="20210219143000 -0600" channel="CineCanal">
+  <programme start="20210220124000 -0600" stop="20210220143000 -0600" channel="CineCanal">
     <title lang="es">El Libro de la Vida</title>
   </programme>
-  <programme start="20210219143000 -0600" stop="20210219171000 -0600" channel="CineCanal">
+  <programme start="20210220143000 -0600" stop="20210220171000 -0600" channel="CineCanal">
     <title lang="es">Divergente</title>
   </programme>
-  <programme start="20210219171000 -0600" stop="20210219192000 -0600" channel="CineCanal">
+  <programme start="20210220171000 -0600" stop="20210220192000 -0600" channel="CineCanal">
     <title lang="es">Titanes del Pacífico 2</title>
   </programme>
-  <programme start="20210219192000 -0600" stop="20210219220000 -0600" channel="CineCanal">
+  <programme start="20210220192000 -0600" stop="20210220220000 -0600" channel="CineCanal">
     <title lang="es">Duro de Matar 4.0</title>
   </programme>
-  <programme start="20210219220000 -0600" stop="20210220000000 -0600" channel="CineCanal">
+  <programme start="20210220220000 -0600" stop="20210221000000 -0600" channel="CineCanal">
     <title lang="es">La Gran Muralla</title>
   </programme>
   <programme start="20210218003200 -0600" stop="20210218012300 -0600" channel="Warner Channel">
@@ -1407,7 +1200,7 @@
     <title lang="es">Seinfeld</title>
   </programme>
   <programme start="20210218085300 -0600" stop="20210218105200 -0600" channel="Warner Channel">
-    <title lang="es">Winter el delfín</title>
+    <title lang="es">Winter, el delfín</title>
   </programme>
   <programme start="20210218105200 -0600" stop="20210218124600 -0600" channel="Warner Channel">
     <title lang="es">El rey escorpión 2</title>
@@ -1608,7 +1401,7 @@
     <title lang="es">Grown-ish</title>
   </programme>
   <programme start="20210218115500 -0600" stop="20210218140000 -0600" channel="Sony">
-    <title lang="es">Golpe bajo El juego final</title>
+    <title lang="es">Golpe bajo: El juego final</title>
   </programme>
   <programme start="20210218140000 -0600" stop="20210218150500 -0600" channel="Sony">
     <title lang="es">Marvel's Jessica Jones</title>
@@ -1701,10 +1494,10 @@
     <title lang="es">Los mejores momentos de Shark</title>
   </programme>
   <programme start="20210219230000 -0600" stop="20210219235400 -0600" channel="Sony">
-    <title lang="es">De brutas nada</title>
+    <title lang="es">De Brutas nada</title>
   </programme>
   <programme start="20210219235400 -0600" stop="20210220005000 -0600" channel="Sony">
-    <title lang="es">De brutas nada</title>
+    <title lang="es">De Brutas nada</title>
   </programme>
   <programme start="20210218010000 -0600" stop="20210218030000 -0600" channel="Paramount">
     <title lang="es">Triste San Valentín</title>
@@ -1808,49 +1601,55 @@
   <programme start="20210218141600 -0600" stop="20210218163100 -0600" channel="TNT">
     <title lang="es">La gran estafa</title>
   </programme>
-  <programme start="20210218163100 -0600" stop="20210218200000 -0600" channel="TNT">
+  <programme start="20210218163100 -0600" stop="20210218180800 -0600" channel="TNT">
     <title lang="es">Drácula: La historia Jamás Contada</title>
   </programme>
-  <programme start="20210218200000 -0600" stop="20210218220000 -0600" channel="TNT">
+  <programme start="20210218180800 -0600" stop="20210218200200 -0600" channel="TNT">
+    <title lang="es">Si yo tuviera 30</title>
+  </programme>
+  <programme start="20210218200200 -0600" stop="20210218220000 -0600" channel="TNT">
     <title lang="es">Difícil de matar</title>
   </programme>
-  <programme start="20210218220000 -0600" stop="20210218235900 -0600" channel="TNT">
+  <programme start="20210218220000 -0600" stop="20210218235800 -0600" channel="TNT">
     <title lang="es">El forastero</title>
   </programme>
-  <programme start="20210218235900 -0600" stop="20210219015500 -0600" channel="TNT">
+  <programme start="20210218235800 -0600" stop="20210219015500 -0600" channel="TNT">
     <title lang="es">Código de honor</title>
   </programme>
-  <programme start="20210219015500 -0600" stop="20210219041600 -0600" channel="TNT">
+  <programme start="20210219235800 -0600" stop="20210220015500 -0600" channel="TNT">
+    <title lang="es">Código de honor</title>
+  </programme>
+  <programme start="20210220015500 -0600" stop="20210220041600 -0600" channel="TNT">
     <title lang="es">Eso</title>
   </programme>
-  <programme start="20210219041600 -0600" stop="20210219060000 -0600" channel="TNT">
+  <programme start="20210220041600 -0600" stop="20210220060000 -0600" channel="TNT">
     <title lang="es">Cómo salir de Buffalo</title>
   </programme>
-  <programme start="20210219060000 -0600" stop="20210219065900 -0600" channel="TNT">
+  <programme start="20210220060000 -0600" stop="20210220065900 -0600" channel="TNT">
     <title lang="es">Ghost Rider Espíritu de</title>
   </programme>
-  <programme start="20210219065900 -0600" stop="20210219085200 -0600" channel="TNT">
+  <programme start="20210220065900 -0600" stop="20210220085200 -0600" channel="TNT">
     <title lang="es">Street fighter</title>
   </programme>
-  <programme start="20210219085200 -0600" stop="20210219111800 -0600" channel="TNT">
+  <programme start="20210220085200 -0600" stop="20210220111800 -0600" channel="TNT">
     <title lang="es">Leyendas De Pasión</title>
   </programme>
-  <programme start="20210219111800 -0600" stop="20210219130800 -0600" channel="TNT">
+  <programme start="20210220111800 -0600" stop="20210220130800 -0600" channel="TNT">
     <title lang="es">De la cuna a la tumba</title>
   </programme>
-  <programme start="20210219130800 -0600" stop="20210219151300 -0600" channel="TNT">
+  <programme start="20210220130800 -0600" stop="20210220151300 -0600" channel="TNT">
     <title lang="es">Locos de ira</title>
   </programme>
-  <programme start="20210219151300 -0600" stop="20210219175800 -0600" channel="TNT">
+  <programme start="20210220151300 -0600" stop="20210220175800 -0600" channel="TNT">
     <title lang="es">El Sorprendente Hombre Araña 2</title>
   </programme>
-  <programme start="20210219175800 -0600" stop="20210219195700 -0600" channel="TNT">
+  <programme start="20210220175800 -0600" stop="20210220195700 -0600" channel="TNT">
     <title lang="es">Difícil de matar</title>
   </programme>
-  <programme start="20210219195700 -0600" stop="20210219220000 -0600" channel="TNT">
+  <programme start="20210220195700 -0600" stop="20210220220000 -0600" channel="TNT">
     <title lang="es">Dos locos en patrulla</title>
   </programme>
-  <programme start="20210219220000 -0600" stop="20210220000600 -0600" channel="TNT">
+  <programme start="20210220220000 -0600" stop="20210221000600 -0600" channel="TNT">
     <title lang="es">Un novato en apuros 2</title>
   </programme>
   <programme start="20210218002000 -0600" stop="20210218004500 -0600" channel="AMC">
@@ -2060,70 +1859,67 @@
   <programme start="20210218054100 -0600" stop="20210218062100 -0600" channel="Space">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20210218062100 -0600" stop="20210218083000 -0600" channel="Space">
+  <programme start="20210218062100 -0600" stop="20210218083400 -0600" channel="Space">
     <title lang="es">El chacal</title>
   </programme>
-  <programme start="20210218083000 -0600" stop="20210218102700 -0600" channel="Space">
+  <programme start="20210218083400 -0600" stop="20210218103000 -0600" channel="Space">
     <title lang="es">Daño colateral</title>
   </programme>
-  <programme start="20210218102700 -0600" stop="20210218123000 -0600" channel="Space">
+  <programme start="20210218103000 -0600" stop="20210218123200 -0600" channel="Space">
     <title lang="es">El protector</title>
   </programme>
-  <programme start="20210218123000 -0600" stop="20210218150400 -0600" channel="Space">
+  <programme start="20210218123200 -0600" stop="20210218150400 -0600" channel="Space">
     <title lang="es">Invictus</title>
   </programme>
   <programme start="20210218150400 -0600" stop="20210218171400 -0600" channel="Space">
     <title lang="es">Romeo Debe Morir</title>
   </programme>
-  <programme start="20210218171400 -0600" stop="20210218195500 -0600" channel="Space">
+  <programme start="20210218171400 -0600" stop="20210218193100 -0600" channel="Space">
     <title lang="es">El destino de Júpiter</title>
   </programme>
-  <programme start="20210218195500 -0600" stop="20210218220000 -0600" channel="Space">
-    <title lang="es">Colombiana</title>
+  <programme start="20210218193100 -0600" stop="20210218220900 -0600" channel="Space">
+    <title lang="es">Combate Space Especial</title>
   </programme>
-  <programme start="20210218220000 -0600" stop="20210218234000 -0600" channel="Space">
+  <programme start="20210218220900 -0600" stop="20210219000000 -0600" channel="Space">
     <title lang="es">Lucy</title>
   </programme>
-  <programme start="20210218234000 -0600" stop="20210219013900 -0600" channel="Space">
+  <programme start="20210219000000 -0600" stop="20210219013900 -0600" channel="Space">
     <title lang="es">El perfecto asesino</title>
   </programme>
-  <programme start="20210219234000 -0600" stop="20210220013900 -0600" channel="Space">
-    <title lang="es">El perfecto asesino</title>
-  </programme>
-  <programme start="20210220013900 -0600" stop="20210220032700 -0600" channel="Space">
+  <programme start="20210219013900 -0600" stop="20210219032700 -0600" channel="Space">
     <title lang="es">Infección</title>
   </programme>
-  <programme start="20210220032700 -0600" stop="20210220052900 -0600" channel="Space">
+  <programme start="20210219032700 -0600" stop="20210219052900 -0600" channel="Space">
     <title lang="es">El chacal</title>
   </programme>
-  <programme start="20210220052900 -0600" stop="20210220060000 -0600" channel="Space">
+  <programme start="20210219052900 -0600" stop="20210219060000 -0600" channel="Space">
     <title lang="es">Van Helsing</title>
   </programme>
-  <programme start="20210220060000 -0600" stop="20210220063300 -0600" channel="Space">
+  <programme start="20210219060000 -0600" stop="20210219063300 -0600" channel="Space">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20210220063300 -0600" stop="20210220085700 -0600" channel="Space">
+  <programme start="20210219063300 -0600" stop="20210219085700 -0600" channel="Space">
     <title lang="es">Invictus</title>
   </programme>
-  <programme start="20210220085700 -0600" stop="20210220105900 -0600" channel="Space">
+  <programme start="20210219085700 -0600" stop="20210219105900 -0600" channel="Space">
     <title lang="es">Romeo Debe Morir</title>
   </programme>
-  <programme start="20210220105900 -0600" stop="20210220125500 -0600" channel="Space">
+  <programme start="20210219105900 -0600" stop="20210219125500 -0600" channel="Space">
     <title lang="es">Elysium</title>
   </programme>
-  <programme start="20210220125500 -0600" stop="20210220152600 -0600" channel="Space">
+  <programme start="20210219125500 -0600" stop="20210219152600 -0600" channel="Space">
     <title lang="es">Ángeles y demonios</title>
   </programme>
-  <programme start="20210220152600 -0600" stop="20210220174200 -0600" channel="Space">
+  <programme start="20210219152600 -0600" stop="20210219174200 -0600" channel="Space">
     <title lang="es">El destino de Júpiter</title>
   </programme>
-  <programme start="20210220174200 -0600" stop="20210220194800 -0600" channel="Space">
+  <programme start="20210219174200 -0600" stop="20210219194800 -0600" channel="Space">
     <title lang="es">Colombiana</title>
   </programme>
-  <programme start="20210220194800 -0600" stop="20210220220000 -0600" channel="Space">
+  <programme start="20210219194800 -0600" stop="20210219220000 -0600" channel="Space">
     <title lang="es">Una noche para sobrevivir</title>
   </programme>
-  <programme start="20210220220000 -0600" stop="20210221000400 -0600" channel="Space">
+  <programme start="20210219220000 -0600" stop="20210220000400 -0600" channel="Space">
     <title lang="es">Infección</title>
   </programme>
   <programme start="20210218002000 -0600" stop="20210218011000 -0600" channel="Universal Channel">
@@ -2597,136 +2393,85 @@
   <programme start="20210219234000 -0600" stop="20210220000900 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210218002500 -0600" stop="20210218010000 -0600" channel="Cartoon Network">
-    <title lang="es">Dr. Stone</title>
+  <programme start="20210218010100 -0600" stop="20210218024300 -0600" channel="FOX Movies">
+    <title lang="es">Paranoia</title>
   </programme>
-  <programme start="20210218010000 -0600" stop="20210218020000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  <programme start="20210218024300 -0600" stop="20210218042900 -0600" channel="FOX Movies">
+    <title lang="es">Las últimas horas</title>
   </programme>
-  <programme start="20210218020000 -0600" stop="20210218030000 -0600" channel="Cartoon Network">
-    <title lang="es">Campamento de verano</title>
+  <programme start="20210218042900 -0600" stop="20210218061400 -0600" channel="FOX Movies">
+    <title lang="es">Viviendo con el enemigo</title>
   </programme>
-  <programme start="20210218030000 -0600" stop="20210218040000 -0600" channel="Cartoon Network">
-    <title lang="es">Steven universe</title>
+  <programme start="20210218061400 -0600" stop="20210218074100 -0600" channel="FOX Movies">
+    <title lang="es">Goon</title>
   </programme>
-  <programme start="20210218040000 -0600" stop="20210218041500 -0600" channel="Cartoon Network">
-    <title lang="es">La Vaca y el Pollito</title>
+  <programme start="20210218074100 -0600" stop="20210218091100 -0600" channel="FOX Movies">
+    <title lang="es">El Libro de la Vida</title>
   </programme>
-  <programme start="20210218041500 -0600" stop="20210218044500 -0600" channel="Cartoon Network">
-    <title lang="es">Mansión Foster</title>
+  <programme start="20210218091100 -0600" stop="20210218104000 -0600" channel="FOX Movies">
+    <title lang="es">21, la gran fiesta</title>
   </programme>
-  <programme start="20210218044500 -0600" stop="20210218050000 -0600" channel="Cartoon Network">
-    <title lang="es">Jones, el robot</title>
+  <programme start="20210218104000 -0600" stop="20210218123300 -0600" channel="FOX Movies">
+    <title lang="es">Juegos del Hambre: Sinsajo 1</title>
   </programme>
-  <programme start="20210218050000 -0600" stop="20210218060000 -0600" channel="Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
+  <programme start="20210218123300 -0600" stop="20210218140900 -0600" channel="FOX Movies">
+    <title lang="es">El Origen de los Guardianes</title>
   </programme>
-  <programme start="20210218060000 -0600" stop="20210218071000 -0600" channel="Cartoon Network">
-    <title lang="es">El mundo de Craig</title>
+  <programme start="20210218140900 -0600" stop="20210218155600 -0600" channel="FOX Movies">
+    <title lang="es">Mujeres al ataque</title>
   </programme>
-  <programme start="20210218071000 -0600" stop="20210218073500 -0600" channel="Cartoon Network">
-    <title lang="es">Mao Mao Héroes de puro</title>
+  <programme start="20210218155600 -0600" stop="20210218173600 -0600" channel="FOX Movies">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
   </programme>
-  <programme start="20210218073500 -0600" stop="20210218080000 -0600" channel="Cartoon Network">
-    <title lang="es">Pokémon Sol y Luna</title>
+  <programme start="20210218173600 -0600" stop="20210218190000 -0600" channel="FOX Movies">
+    <title lang="es">Socias en Guerra</title>
   </programme>
-  <programme start="20210218080000 -0600" stop="20210218083000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  <programme start="20210218190000 -0600" stop="20210218203300 -0600" channel="FOX Movies">
+    <title lang="es">Cuando los padres se quedan so</title>
   </programme>
-  <programme start="20210218083000 -0600" stop="20210218093000 -0600" channel="Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
+  <programme start="20210218203300 -0600" stop="20210218221300 -0600" channel="FOX Movies">
+    <title lang="es">El club de los idealistas</title>
   </programme>
-  <programme start="20210218093000 -0600" stop="20210218103000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  <programme start="20210218221300 -0600" stop="20210219012900 -0600" channel="FOX Movies">
+    <title lang="es">Sangre, sudor y gloria</title>
   </programme>
-  <programme start="20210218103000 -0600" stop="20210218110000 -0600" channel="Cartoon Network">
-    <title lang="es">DC Super Hero Girls</title>
+  <programme start="20210219012900 -0600" stop="20210219031600 -0600" channel="FOX Movies">
+    <title lang="es">High life</title>
   </programme>
-  <programme start="20210218110000 -0600" stop="20210218113000 -0600" channel="Cartoon Network">
-    <title lang="es">DC Super Hero Girls</title>
+  <programme start="20210219031600 -0600" stop="20210219043400 -0600" channel="FOX Movies">
+    <title lang="es">Dos Armas Letales</title>
   </programme>
-  <programme start="20210218113000 -0600" stop="20210218120000 -0600" channel="Cartoon Network">
-    <title lang="es">Drama Total La guardería</title>
+  <programme start="20210219043400 -0600" stop="20210219055800 -0600" channel="FOX Movies">
+    <title lang="es">Ass Backwards</title>
   </programme>
-  <programme start="20210218120000 -0600" stop="20210218130000 -0600" channel="Cartoon Network">
-    <title lang="es">Escandalosos</title>
+  <programme start="20210219055800 -0600" stop="20210219081300 -0600" channel="FOX Movies">
+    <title lang="es">El niño y el fugitivo</title>
   </programme>
-  <programme start="20210218130000 -0600" stop="20210218140000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  <programme start="20210219081300 -0600" stop="20210219094600 -0600" channel="FOX Movies">
+    <title lang="es">El Libro de la Vida</title>
   </programme>
-  <programme start="20210218140000 -0600" stop="20210218150000 -0600" channel="Cartoon Network">
-    <title lang="es">Drama Total La guardería</title>
+  <programme start="20210219094600 -0600" stop="20210219113700 -0600" channel="FOX Movies">
+    <title lang="es">Marcado por la muerte</title>
   </programme>
-  <programme start="20210218150000 -0600" stop="20210218160000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  <programme start="20210219113700 -0600" stop="20210219133100 -0600" channel="FOX Movies">
+    <title lang="es">Juegos del Hambre: Sinsajo 1</title>
   </programme>
-  <programme start="20210218160000 -0600" stop="20210218170000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  <programme start="20210219133100 -0600" stop="20210219151500 -0600" channel="FOX Movies">
+    <title lang="es">Dos Armas Letales</title>
   </programme>
-  <programme start="20210218170000 -0600" stop="20210218174500 -0600" channel="Cartoon Network">
-    <title lang="es">Escandalosos</title>
+  <programme start="20210219151500 -0600" stop="20210219165200 -0600" channel="FOX Movies">
+    <title lang="es">Cambio de Vida</title>
   </programme>
-  <programme start="20210218174500 -0600" stop="20210218180000 -0600" channel="Cartoon Network">
-    <title lang="es">ThunderCats rugen</title>
+  <programme start="20210219165200 -0600" stop="20210219190000 -0600" channel="FOX Movies">
+    <title lang="es">Jack Reacher</title>
   </programme>
-  <programme start="20210218180000 -0600" stop="20210218183000 -0600" channel="Cartoon Network">
-    <title lang="es">Victor y Valentino</title>
+  <programme start="20210219190000 -0600" stop="20210219204500 -0600" channel="FOX Movies">
+    <title lang="es">El Precio del Mañana</title>
   </programme>
-  <programme start="20210218183000 -0600" stop="20210218190000 -0600" channel="Cartoon Network">
-    <title lang="es">DC Super Hero Girls</title>
+  <programme start="20210219204500 -0600" stop="20210219224700 -0600" channel="FOX Movies">
+    <title lang="es">Prometeo</title>
   </programme>
-  <programme start="20210218190000 -0600" stop="20210218194500 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20210218194500 -0600" stop="20210218200000 -0600" channel="Cartoon Network">
-    <title lang="es">Manzana y Cebollín</title>
-  </programme>
-  <programme start="20210218200000 -0600" stop="20210218204500 -0600" channel="Cartoon Network">
-    <title lang="es">Escandalosos</title>
-  </programme>
-  <programme start="20210218204500 -0600" stop="20210218210000 -0600" channel="Cartoon Network">
-    <title lang="es">Victor y Valentino</title>
-  </programme>
-  <programme start="20210218210000 -0600" stop="20210218220000 -0600" channel="Cartoon Network">
-    <title lang="es">Drama Total La guardería</title>
-  </programme>
-  <programme start="20210218220000 -0600" stop="20210218230000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20210218230000 -0600" stop="20210219000000 -0600" channel="Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
-  </programme>
-  <programme start="20210219040000 -0600" stop="20210219041500 -0600" channel="Cartoon Network">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20210219041500 -0600" stop="20210219044500 -0600" channel="Cartoon Network">
-    <title lang="es">Samurai Jack</title>
-  </programme>
-  <programme start="20210219044500 -0600" stop="20210219050000 -0600" channel="Cartoon Network">
-    <title lang="es">KND los chicos del barrio</title>
-  </programme>
-  <programme start="20210219071000 -0600" stop="20210219073500 -0600" channel="Cartoon Network">
-    <title lang="es">Bakugan Armored Alliance</title>
-  </programme>
-  <programme start="20210219073500 -0600" stop="20210219080000 -0600" channel="Cartoon Network">
-    <title lang="es">Power Rangers Beast Morphers</title>
-  </programme>
-  <programme start="20210219110000 -0600" stop="20210219113000 -0600" channel="Cartoon Network">
-    <title lang="es">Lego Jurassic World</title>
-  </programme>
-  <programme start="20210219140000 -0600" stop="20210219150000 -0600" channel="Cartoon Network">
-    <title lang="es">Drama Total La guardería</title>
-  </programme>
-  <programme start="20210219174500 -0600" stop="20210219180000 -0600" channel="Cartoon Network">
-    <title lang="es">Ben 10</title>
-  </programme>
-  <programme start="20210219194500 -0600" stop="20210219200000 -0600" channel="Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20210219210000 -0600" stop="20210219223000 -0600" channel="Cartoon Network">
-    <title lang="es">Kung Fu Panda 2</title>
-  </programme>
-  <programme start="20210219223000 -0600" stop="20210219230000 -0600" channel="Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
+  <programme start="20210219224700 -0600" stop="20210220010200 -0600" channel="FOX Movies">
+    <title lang="es">Hulk</title>
   </programme>
 </tv>
