@@ -72,12 +72,12 @@
     <display-name lang="es">FX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="FOX">
-    <display-name lang="es">FOX</display-name>
+  <channel id="Star">
+    <display-name lang="es">Star</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="FOX Movies">
-    <display-name lang="es">FOX Movies</display-name>
+  <channel id="Star Hits">
+    <display-name lang="es">Star Hits</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210223001500 -0600" stop="20210223003000 -0600" channel="Azteca Uno">
@@ -317,8 +317,8 @@
   <programme start="20210224090000 -0600" stop="20210224093000 -0600" channel="Azteca 7">
     <title lang="es">44 Gatos</title>
   </programme>
-  <programme start="20210224093000 -0600" stop="20210224103000 -0600" channel="Azteca 7">
-    <title lang="es">My Little Pony Pony Life</title>
+  <programme start="20210224103000 -0600" stop="20210224113000 -0600" channel="Azteca 7">
+    <title lang="es">Los supersónicos</title>
   </programme>
   <programme start="20210224131500 -0600" stop="20210224140000 -0600" channel="Azteca 7">
     <title lang="es">Power Rangers: Beast Morphers</title>
@@ -2303,241 +2303,241 @@
   <programme start="20210224220000 -0600" stop="20210225000000 -0600" channel="FX">
     <title lang="es">Guardianes de la Bahía</title>
   </programme>
-  <programme start="20210223002200 -0600" stop="20210223004800 -0600" channel="FOX">
+  <programme start="20210223002200 -0600" stop="20210223004800 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223004800 -0600" stop="20210223023000 -0600" channel="FOX">
+  <programme start="20210223004800 -0600" stop="20210223023000 -0600" channel="Star">
     <title lang="es">Desaparecido</title>
   </programme>
-  <programme start="20210223023000 -0600" stop="20210223045000 -0600" channel="FOX">
+  <programme start="20210223023000 -0600" stop="20210223045000 -0600" channel="Star">
     <title lang="es">Puente de Espías</title>
   </programme>
-  <programme start="20210223045000 -0600" stop="20210223061800 -0600" channel="FOX">
+  <programme start="20210223045000 -0600" stop="20210223061800 -0600" channel="Star">
     <title lang="es">Las novias de mis amigos</title>
   </programme>
-  <programme start="20210223061800 -0600" stop="20210223070000 -0600" channel="FOX">
+  <programme start="20210223061800 -0600" stop="20210223070000 -0600" channel="Star">
     <title lang="es">Bless This Mess</title>
   </programme>
-  <programme start="20210223070000 -0600" stop="20210223074700 -0600" channel="FOX">
+  <programme start="20210223070000 -0600" stop="20210223074700 -0600" channel="Star">
     <title lang="es">9-1-1</title>
   </programme>
-  <programme start="20210223074700 -0600" stop="20210223090800 -0600" channel="FOX">
+  <programme start="20210223074700 -0600" stop="20210223090800 -0600" channel="Star">
     <title lang="es">Reyes de las olas</title>
   </programme>
-  <programme start="20210223090800 -0600" stop="20210223103400 -0600" channel="FOX">
+  <programme start="20210223090800 -0600" stop="20210223103400 -0600" channel="Star">
     <title lang="es">Tadeo el Explorador Perdido 2</title>
   </programme>
-  <programme start="20210223103400 -0600" stop="20210223123300 -0600" channel="FOX">
+  <programme start="20210223103400 -0600" stop="20210223123300 -0600" channel="Star">
     <title lang="es">Pixeles</title>
   </programme>
-  <programme start="20210223123300 -0600" stop="20210223125800 -0600" channel="FOX">
+  <programme start="20210223123300 -0600" stop="20210223125800 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223125800 -0600" stop="20210223132300 -0600" channel="FOX">
+  <programme start="20210223125800 -0600" stop="20210223132300 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223132300 -0600" stop="20210223134700 -0600" channel="FOX">
+  <programme start="20210223132300 -0600" stop="20210223134700 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223134700 -0600" stop="20210223141200 -0600" channel="FOX">
+  <programme start="20210223134700 -0600" stop="20210223141200 -0600" channel="Star">
     <title lang="es">Fresh Off the Boat</title>
   </programme>
-  <programme start="20210223141200 -0600" stop="20210223143800 -0600" channel="FOX">
+  <programme start="20210223141200 -0600" stop="20210223143800 -0600" channel="Star">
     <title lang="es">Fresh Off the Boat</title>
   </programme>
-  <programme start="20210223143800 -0600" stop="20210223164900 -0600" channel="FOX">
+  <programme start="20210223143800 -0600" stop="20210223164900 -0600" channel="Star">
     <title lang="es">Día de las Madres</title>
   </programme>
-  <programme start="20210223164900 -0600" stop="20210223171000 -0600" channel="FOX">
+  <programme start="20210223164900 -0600" stop="20210223171000 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223171000 -0600" stop="20210223173900 -0600" channel="FOX">
+  <programme start="20210223171000 -0600" stop="20210223173900 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223173900 -0600" stop="20210223180000 -0600" channel="FOX">
+  <programme start="20210223173900 -0600" stop="20210223180000 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223180000 -0600" stop="20210223200000 -0600" channel="FOX">
+  <programme start="20210223180000 -0600" stop="20210223200000 -0600" channel="Star">
     <title lang="es">Non-Stop: Sin Escalas</title>
   </programme>
-  <programme start="20210223200000 -0600" stop="20210223202400 -0600" channel="FOX">
+  <programme start="20210223200000 -0600" stop="20210223202400 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223202400 -0600" stop="20210223204600 -0600" channel="FOX">
+  <programme start="20210223202400 -0600" stop="20210223204600 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223204600 -0600" stop="20210223210700 -0600" channel="FOX">
+  <programme start="20210223204600 -0600" stop="20210223210700 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223210700 -0600" stop="20210223213200 -0600" channel="FOX">
+  <programme start="20210223210700 -0600" stop="20210223213200 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223213200 -0600" stop="20210223215500 -0600" channel="FOX">
+  <programme start="20210223213200 -0600" stop="20210223215500 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210223215500 -0600" stop="20210224001100 -0600" channel="FOX">
+  <programme start="20210223215500 -0600" stop="20210224001100 -0600" channel="Star">
     <title lang="es">Jurassic World-Mundo Jurásico</title>
   </programme>
-  <programme start="20210224215500 -0600" stop="20210225001100 -0600" channel="FOX">
+  <programme start="20210224215500 -0600" stop="20210225001100 -0600" channel="Star">
     <title lang="es">Jurassic World-Mundo Jurásico</title>
   </programme>
-  <programme start="20210225001100 -0600" stop="20210225003600 -0600" channel="FOX">
+  <programme start="20210225001100 -0600" stop="20210225003600 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225003600 -0600" stop="20210225010000 -0600" channel="FOX">
+  <programme start="20210225003600 -0600" stop="20210225010000 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225010000 -0600" stop="20210225025800 -0600" channel="FOX">
+  <programme start="20210225010000 -0600" stop="20210225025800 -0600" channel="Star">
     <title lang="es">Lo Imposible</title>
   </programme>
-  <programme start="20210225025800 -0600" stop="20210225053100 -0600" channel="FOX">
+  <programme start="20210225025800 -0600" stop="20210225053100 -0600" channel="Star">
     <title lang="es">Maze Runner: La Cura Mortal</title>
   </programme>
-  <programme start="20210225053100 -0600" stop="20210225055300 -0600" channel="FOX">
+  <programme start="20210225053100 -0600" stop="20210225055300 -0600" channel="Star">
     <title lang="es">Bless This Mess</title>
   </programme>
-  <programme start="20210225055300 -0600" stop="20210225061400 -0600" channel="FOX">
+  <programme start="20210225055300 -0600" stop="20210225061400 -0600" channel="Star">
     <title lang="es">Speechless</title>
   </programme>
-  <programme start="20210225061400 -0600" stop="20210225070000 -0600" channel="FOX">
+  <programme start="20210225061400 -0600" stop="20210225070000 -0600" channel="Star">
     <title lang="es">Wayward Pines</title>
   </programme>
-  <programme start="20210225070000 -0600" stop="20210225075200 -0600" channel="FOX">
+  <programme start="20210225070000 -0600" stop="20210225075200 -0600" channel="Star">
     <title lang="es">9-1-1</title>
   </programme>
-  <programme start="20210225075200 -0600" stop="20210225091000 -0600" channel="FOX">
+  <programme start="20210225075200 -0600" stop="20210225091000 -0600" channel="Star">
     <title lang="es">Tadeo el Explorador Perdido 2</title>
   </programme>
-  <programme start="20210225091000 -0600" stop="20210225104200 -0600" channel="FOX">
+  <programme start="20210225091000 -0600" stop="20210225104200 -0600" channel="Star">
     <title lang="es">El Gato</title>
   </programme>
-  <programme start="20210225104200 -0600" stop="20210225125900 -0600" channel="FOX">
+  <programme start="20210225104200 -0600" stop="20210225125900 -0600" channel="Star">
     <title lang="es">Qué esperar cuando estas</title>
   </programme>
-  <programme start="20210225125900 -0600" stop="20210225131900 -0600" channel="FOX">
+  <programme start="20210225125900 -0600" stop="20210225131900 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225131900 -0600" stop="20210225134000 -0600" channel="FOX">
+  <programme start="20210225131900 -0600" stop="20210225134000 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225134000 -0600" stop="20210225140500 -0600" channel="FOX">
+  <programme start="20210225134000 -0600" stop="20210225140500 -0600" channel="Star">
     <title lang="es">Fresh Off the Boat</title>
   </programme>
-  <programme start="20210225140500 -0600" stop="20210225143100 -0600" channel="FOX">
+  <programme start="20210225140500 -0600" stop="20210225143100 -0600" channel="Star">
     <title lang="es">Fresh Off the Boat</title>
   </programme>
-  <programme start="20210225143100 -0600" stop="20210225165400 -0600" channel="FOX">
+  <programme start="20210225143100 -0600" stop="20210225165400 -0600" channel="Star">
     <title lang="es">Cuestión de tiempo</title>
   </programme>
-  <programme start="20210225165400 -0600" stop="20210225171400 -0600" channel="FOX">
+  <programme start="20210225165400 -0600" stop="20210225171400 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225171400 -0600" stop="20210225173300 -0600" channel="FOX">
+  <programme start="20210225171400 -0600" stop="20210225173300 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225173300 -0600" stop="20210225180700 -0600" channel="FOX">
+  <programme start="20210225173300 -0600" stop="20210225180700 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225180700 -0600" stop="20210225195100 -0600" channel="FOX">
+  <programme start="20210225180700 -0600" stop="20210225195100 -0600" channel="Star">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20210225195100 -0600" stop="20210225201600 -0600" channel="FOX">
+  <programme start="20210225195100 -0600" stop="20210225201600 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225201600 -0600" stop="20210225204000 -0600" channel="FOX">
+  <programme start="20210225201600 -0600" stop="20210225204000 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225204000 -0600" stop="20210225210500 -0600" channel="FOX">
+  <programme start="20210225204000 -0600" stop="20210225210500 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225210500 -0600" stop="20210225213000 -0600" channel="FOX">
+  <programme start="20210225210500 -0600" stop="20210225213000 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225213000 -0600" stop="20210225215500 -0600" channel="FOX">
+  <programme start="20210225213000 -0600" stop="20210225215500 -0600" channel="Star">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210225215500 -0600" stop="20210226003100 -0600" channel="FOX">
+  <programme start="20210225215500 -0600" stop="20210226003100 -0600" channel="Star">
     <title lang="es">Bohemian Rhapsody</title>
   </programme>
-  <programme start="20210223011900 -0600" stop="20210223032300 -0600" channel="FOX Movies">
+  <programme start="20210223011900 -0600" stop="20210223032300 -0600" channel="Star Hits">
     <title lang="es">Sangre, sudor y gloria</title>
   </programme>
-  <programme start="20210223032300 -0600" stop="20210223051000 -0600" channel="FOX Movies">
+  <programme start="20210223032300 -0600" stop="20210223051000 -0600" channel="Star Hits">
     <title lang="es">High life</title>
   </programme>
-  <programme start="20210223051000 -0600" stop="20210223065600 -0600" channel="FOX Movies">
+  <programme start="20210223051000 -0600" stop="20210223065600 -0600" channel="Star Hits">
     <title lang="es">La Iglesia De La Salvación</title>
   </programme>
-  <programme start="20210223065600 -0600" stop="20210223082700 -0600" channel="FOX Movies">
+  <programme start="20210223065600 -0600" stop="20210223082700 -0600" channel="Star Hits">
     <title lang="es">El Libro de la Vida</title>
   </programme>
-  <programme start="20210223082700 -0600" stop="20210223101600 -0600" channel="FOX Movies">
+  <programme start="20210223082700 -0600" stop="20210223101600 -0600" channel="Star Hits">
     <title lang="es">Tolkien</title>
   </programme>
-  <programme start="20210223101600 -0600" stop="20210223120200 -0600" channel="FOX Movies">
+  <programme start="20210223101600 -0600" stop="20210223120200 -0600" channel="Star Hits">
     <title lang="es">Dos Armas Letales</title>
   </programme>
-  <programme start="20210223120200 -0600" stop="20210223133900 -0600" channel="FOX Movies">
+  <programme start="20210223120200 -0600" stop="20210223133900 -0600" channel="Star Hits">
     <title lang="es">Cambio de Vida</title>
   </programme>
-  <programme start="20210223133900 -0600" stop="20210223151100 -0600" channel="FOX Movies">
+  <programme start="20210223133900 -0600" stop="20210223151100 -0600" channel="Star Hits">
     <title lang="es">Eliminar Amigo 2</title>
   </programme>
-  <programme start="20210223151100 -0600" stop="20210223170300 -0600" channel="FOX Movies">
+  <programme start="20210223151100 -0600" stop="20210223170300 -0600" channel="Star Hits">
     <title lang="es">Azul Extremo</title>
   </programme>
-  <programme start="20210223170300 -0600" stop="20210223190000 -0600" channel="FOX Movies">
+  <programme start="20210223170300 -0600" stop="20210223190000 -0600" channel="Star Hits">
     <title lang="es">The Last Full Measure</title>
   </programme>
-  <programme start="20210223190000 -0600" stop="20210223203700 -0600" channel="FOX Movies">
+  <programme start="20210223190000 -0600" stop="20210223203700 -0600" channel="Star Hits">
     <title lang="es">Feliz Día de tu Muerte 2</title>
   </programme>
-  <programme start="20210223203700 -0600" stop="20210223223800 -0600" channel="FOX Movies">
+  <programme start="20210223203700 -0600" stop="20210223223800 -0600" channel="Star Hits">
     <title lang="es">Prometeo</title>
   </programme>
-  <programme start="20210223223800 -0600" stop="20210224003100 -0600" channel="FOX Movies">
+  <programme start="20210223223800 -0600" stop="20210224003100 -0600" channel="Star Hits">
     <title lang="es">Becky</title>
   </programme>
-  <programme start="20210224223800 -0600" stop="20210225003100 -0600" channel="FOX Movies">
+  <programme start="20210224223800 -0600" stop="20210225003100 -0600" channel="Star Hits">
     <title lang="es">Becky</title>
   </programme>
-  <programme start="20210225003100 -0600" stop="20210225021800 -0600" channel="FOX Movies">
+  <programme start="20210225003100 -0600" stop="20210225021800 -0600" channel="Star Hits">
     <title lang="es">Campos de Londres</title>
   </programme>
-  <programme start="20210225021800 -0600" stop="20210225040000 -0600" channel="FOX Movies">
+  <programme start="20210225021800 -0600" stop="20210225040000 -0600" channel="Star Hits">
     <title lang="es">Impacto mortal</title>
   </programme>
-  <programme start="20210225040000 -0600" stop="20210225053400 -0600" channel="FOX Movies">
+  <programme start="20210225040000 -0600" stop="20210225053400 -0600" channel="Star Hits">
     <title lang="es">Victoria y el sexo</title>
   </programme>
-  <programme start="20210225053400 -0600" stop="20210225071800 -0600" channel="FOX Movies">
+  <programme start="20210225053400 -0600" stop="20210225071800 -0600" channel="Star Hits">
     <title lang="es">Muy buenas chicas</title>
   </programme>
-  <programme start="20210225071800 -0600" stop="20210225084500 -0600" channel="FOX Movies">
+  <programme start="20210225071800 -0600" stop="20210225084500 -0600" channel="Star Hits">
     <title lang="es">Unlovable</title>
   </programme>
-  <programme start="20210225084500 -0600" stop="20210225104900 -0600" channel="FOX Movies">
+  <programme start="20210225084500 -0600" stop="20210225104900 -0600" channel="Star Hits">
     <title lang="es">Capitán Fantástico</title>
   </programme>
-  <programme start="20210225104900 -0600" stop="20210225124300 -0600" channel="FOX Movies">
+  <programme start="20210225104900 -0600" stop="20210225124300 -0600" channel="Star Hits">
     <title lang="es">Marcado por la muerte</title>
   </programme>
-  <programme start="20210225124300 -0600" stop="20210225151600 -0600" channel="FOX Movies">
+  <programme start="20210225124300 -0600" stop="20210225151600 -0600" channel="Star Hits">
     <title lang="es">La noche más oscura</title>
   </programme>
-  <programme start="20210225151600 -0600" stop="20210225164900 -0600" channel="FOX Movies">
+  <programme start="20210225151600 -0600" stop="20210225164900 -0600" channel="Star Hits">
     <title lang="es">Eliminar Amigo 2</title>
   </programme>
-  <programme start="20210225164900 -0600" stop="20210225190000 -0600" channel="FOX Movies">
+  <programme start="20210225164900 -0600" stop="20210225190000 -0600" channel="Star Hits">
     <title lang="es">Jack Reacher</title>
   </programme>
-  <programme start="20210225190000 -0600" stop="20210225204000 -0600" channel="FOX Movies">
+  <programme start="20210225190000 -0600" stop="20210225204000 -0600" channel="Star Hits">
     <title lang="es">La vigilante del futuro</title>
   </programme>
-  <programme start="20210225204000 -0600" stop="20210225223600 -0600" channel="FOX Movies">
+  <programme start="20210225204000 -0600" stop="20210225223600 -0600" channel="Star Hits">
     <title lang="es">The Last Full Measure</title>
   </programme>
-  <programme start="20210225223600 -0600" stop="20210226000400 -0600" channel="FOX Movies">
+  <programme start="20210225223600 -0600" stop="20210226000400 -0600" channel="Star Hits">
     <title lang="es">Irrupcion</title>
   </programme>
 </tv>
