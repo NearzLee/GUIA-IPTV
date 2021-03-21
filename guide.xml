@@ -68,8 +68,8 @@
     <display-name lang="es">FX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Star">
-    <display-name lang="es">Star</display-name>
+  <channel id="Star Channel">
+    <display-name lang="es">Star Channel</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Star Life">
@@ -2201,277 +2201,277 @@
   <programme start="20210321220000 -0600" stop="20210322011900 -0600" channel="FX">
     <title lang="es">Titanic</title>
   </programme>
-  <programme start="20210320000300 -0600" stop="20210320013000 -0600" channel="Star">
+  <programme start="20210320000300 -0600" stop="20210320013000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320013000 -0600" stop="20210320020000 -0600" channel="Star">
+  <programme start="20210320013000 -0600" stop="20210320020000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320020000 -0600" stop="20210320023000 -0600" channel="Star">
+  <programme start="20210320020000 -0600" stop="20210320023000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320023000 -0600" stop="20210320030000 -0600" channel="Star">
+  <programme start="20210320023000 -0600" stop="20210320030000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320030000 -0600" stop="20210320033000 -0600" channel="Star">
+  <programme start="20210320030000 -0600" stop="20210320033000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320033000 -0600" stop="20210320040000 -0600" channel="Star">
+  <programme start="20210320033000 -0600" stop="20210320040000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320040000 -0600" stop="20210320043000 -0600" channel="Star">
+  <programme start="20210320040000 -0600" stop="20210320043000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320043000 -0600" stop="20210320050000 -0600" channel="Star">
+  <programme start="20210320043000 -0600" stop="20210320050000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320050000 -0600" stop="20210320053000 -0600" channel="Star">
+  <programme start="20210320050000 -0600" stop="20210320053000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320053000 -0600" stop="20210320060000 -0600" channel="Star">
+  <programme start="20210320053000 -0600" stop="20210320060000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320060000 -0600" stop="20210320063000 -0600" channel="Star">
+  <programme start="20210320060000 -0600" stop="20210320063000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320063000 -0600" stop="20210320070000 -0600" channel="Star">
+  <programme start="20210320063000 -0600" stop="20210320070000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320070000 -0600" stop="20210320073000 -0600" channel="Star">
+  <programme start="20210320070000 -0600" stop="20210320073000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320073000 -0600" stop="20210320080000 -0600" channel="Star">
+  <programme start="20210320073000 -0600" stop="20210320080000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320080000 -0600" stop="20210320083000 -0600" channel="Star">
+  <programme start="20210320080000 -0600" stop="20210320083000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320083000 -0600" stop="20210320090000 -0600" channel="Star">
+  <programme start="20210320083000 -0600" stop="20210320090000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320090000 -0600" stop="20210320093000 -0600" channel="Star">
+  <programme start="20210320090000 -0600" stop="20210320093000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320093000 -0600" stop="20210320100000 -0600" channel="Star">
+  <programme start="20210320093000 -0600" stop="20210320100000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320100000 -0600" stop="20210320103000 -0600" channel="Star">
+  <programme start="20210320100000 -0600" stop="20210320103000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320103000 -0600" stop="20210320110000 -0600" channel="Star">
+  <programme start="20210320103000 -0600" stop="20210320110000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320110000 -0600" stop="20210320113000 -0600" channel="Star">
+  <programme start="20210320110000 -0600" stop="20210320113000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320113000 -0600" stop="20210320120000 -0600" channel="Star">
+  <programme start="20210320113000 -0600" stop="20210320120000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320120000 -0600" stop="20210320123000 -0600" channel="Star">
+  <programme start="20210320120000 -0600" stop="20210320123000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320123000 -0600" stop="20210320130000 -0600" channel="Star">
+  <programme start="20210320123000 -0600" stop="20210320130000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320130000 -0600" stop="20210320133000 -0600" channel="Star">
+  <programme start="20210320130000 -0600" stop="20210320133000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320133000 -0600" stop="20210320140000 -0600" channel="Star">
+  <programme start="20210320133000 -0600" stop="20210320140000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320140000 -0600" stop="20210320143000 -0600" channel="Star">
+  <programme start="20210320140000 -0600" stop="20210320143000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320143000 -0600" stop="20210320150000 -0600" channel="Star">
+  <programme start="20210320143000 -0600" stop="20210320150000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320150000 -0600" stop="20210320153000 -0600" channel="Star">
+  <programme start="20210320150000 -0600" stop="20210320153000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320153000 -0600" stop="20210320160000 -0600" channel="Star">
+  <programme start="20210320153000 -0600" stop="20210320160000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320160000 -0600" stop="20210320163000 -0600" channel="Star">
+  <programme start="20210320160000 -0600" stop="20210320163000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320163000 -0600" stop="20210320170000 -0600" channel="Star">
+  <programme start="20210320163000 -0600" stop="20210320170000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320170000 -0600" stop="20210320173000 -0600" channel="Star">
+  <programme start="20210320170000 -0600" stop="20210320173000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320173000 -0600" stop="20210320180000 -0600" channel="Star">
+  <programme start="20210320173000 -0600" stop="20210320180000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320180000 -0600" stop="20210320183000 -0600" channel="Star">
+  <programme start="20210320180000 -0600" stop="20210320183000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320183000 -0600" stop="20210320190000 -0600" channel="Star">
+  <programme start="20210320183000 -0600" stop="20210320190000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320190000 -0600" stop="20210320193000 -0600" channel="Star">
+  <programme start="20210320190000 -0600" stop="20210320193000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320193000 -0600" stop="20210320200000 -0600" channel="Star">
+  <programme start="20210320193000 -0600" stop="20210320200000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320200000 -0600" stop="20210320203000 -0600" channel="Star">
+  <programme start="20210320200000 -0600" stop="20210320203000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320203000 -0600" stop="20210320210000 -0600" channel="Star">
+  <programme start="20210320203000 -0600" stop="20210320210000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320210000 -0600" stop="20210320213000 -0600" channel="Star">
+  <programme start="20210320210000 -0600" stop="20210320213000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320213000 -0600" stop="20210320220000 -0600" channel="Star">
+  <programme start="20210320213000 -0600" stop="20210320220000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320220000 -0600" stop="20210320223000 -0600" channel="Star">
+  <programme start="20210320220000 -0600" stop="20210320223000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320223000 -0600" stop="20210320230000 -0600" channel="Star">
+  <programme start="20210320223000 -0600" stop="20210320230000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320230000 -0600" stop="20210320233000 -0600" channel="Star">
+  <programme start="20210320230000 -0600" stop="20210320233000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210320233000 -0600" stop="20210321000000 -0600" channel="Star">
+  <programme start="20210320233000 -0600" stop="20210321000000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321000000 -0600" stop="20210321003000 -0600" channel="Star">
+  <programme start="20210321000000 -0600" stop="20210321003000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321003000 -0600" stop="20210321010000 -0600" channel="Star">
+  <programme start="20210321003000 -0600" stop="20210321010000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321010000 -0600" stop="20210321013000 -0600" channel="Star">
+  <programme start="20210321010000 -0600" stop="20210321013000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321013000 -0600" stop="20210321020000 -0600" channel="Star">
+  <programme start="20210321013000 -0600" stop="20210321020000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321020000 -0600" stop="20210321023000 -0600" channel="Star">
+  <programme start="20210321020000 -0600" stop="20210321023000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321023000 -0600" stop="20210321030000 -0600" channel="Star">
+  <programme start="20210321023000 -0600" stop="20210321030000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321030000 -0600" stop="20210321033000 -0600" channel="Star">
+  <programme start="20210321030000 -0600" stop="20210321033000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321033000 -0600" stop="20210321040000 -0600" channel="Star">
+  <programme start="20210321033000 -0600" stop="20210321040000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321040000 -0600" stop="20210321043000 -0600" channel="Star">
+  <programme start="20210321040000 -0600" stop="20210321043000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321043000 -0600" stop="20210321050000 -0600" channel="Star">
+  <programme start="20210321043000 -0600" stop="20210321050000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321050000 -0600" stop="20210321053000 -0600" channel="Star">
+  <programme start="20210321050000 -0600" stop="20210321053000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321053000 -0600" stop="20210321060000 -0600" channel="Star">
+  <programme start="20210321053000 -0600" stop="20210321060000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321060000 -0600" stop="20210321063000 -0600" channel="Star">
+  <programme start="20210321060000 -0600" stop="20210321063000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321063000 -0600" stop="20210321070000 -0600" channel="Star">
+  <programme start="20210321063000 -0600" stop="20210321070000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321070000 -0600" stop="20210321073000 -0600" channel="Star">
+  <programme start="20210321070000 -0600" stop="20210321073000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321073000 -0600" stop="20210321080000 -0600" channel="Star">
+  <programme start="20210321073000 -0600" stop="20210321080000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321080000 -0600" stop="20210321083000 -0600" channel="Star">
+  <programme start="20210321080000 -0600" stop="20210321083000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321083000 -0600" stop="20210321090000 -0600" channel="Star">
+  <programme start="20210321083000 -0600" stop="20210321090000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321090000 -0600" stop="20210321093000 -0600" channel="Star">
+  <programme start="20210321090000 -0600" stop="20210321093000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321093000 -0600" stop="20210321100000 -0600" channel="Star">
+  <programme start="20210321093000 -0600" stop="20210321100000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321100000 -0600" stop="20210321103000 -0600" channel="Star">
+  <programme start="20210321100000 -0600" stop="20210321103000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321103000 -0600" stop="20210321110000 -0600" channel="Star">
+  <programme start="20210321103000 -0600" stop="20210321110000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321110000 -0600" stop="20210321113000 -0600" channel="Star">
+  <programme start="20210321110000 -0600" stop="20210321113000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321113000 -0600" stop="20210321120000 -0600" channel="Star">
+  <programme start="20210321113000 -0600" stop="20210321120000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321120000 -0600" stop="20210321123000 -0600" channel="Star">
+  <programme start="20210321120000 -0600" stop="20210321123000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321123000 -0600" stop="20210321130000 -0600" channel="Star">
+  <programme start="20210321123000 -0600" stop="20210321130000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321130000 -0600" stop="20210321133000 -0600" channel="Star">
+  <programme start="20210321130000 -0600" stop="20210321133000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321133000 -0600" stop="20210321140000 -0600" channel="Star">
+  <programme start="20210321133000 -0600" stop="20210321140000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321140000 -0600" stop="20210321143000 -0600" channel="Star">
+  <programme start="20210321140000 -0600" stop="20210321143000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321143000 -0600" stop="20210321150000 -0600" channel="Star">
+  <programme start="20210321143000 -0600" stop="20210321150000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321150000 -0600" stop="20210321153000 -0600" channel="Star">
+  <programme start="20210321150000 -0600" stop="20210321153000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321153000 -0600" stop="20210321160000 -0600" channel="Star">
+  <programme start="20210321153000 -0600" stop="20210321160000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321160000 -0600" stop="20210321163000 -0600" channel="Star">
+  <programme start="20210321160000 -0600" stop="20210321163000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321163000 -0600" stop="20210321170000 -0600" channel="Star">
+  <programme start="20210321163000 -0600" stop="20210321170000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321170000 -0600" stop="20210321173000 -0600" channel="Star">
+  <programme start="20210321170000 -0600" stop="20210321173000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321173000 -0600" stop="20210321180000 -0600" channel="Star">
+  <programme start="20210321173000 -0600" stop="20210321180000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321180000 -0600" stop="20210321183000 -0600" channel="Star">
+  <programme start="20210321180000 -0600" stop="20210321183000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321183000 -0600" stop="20210321190000 -0600" channel="Star">
+  <programme start="20210321183000 -0600" stop="20210321190000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321190000 -0600" stop="20210321193000 -0600" channel="Star">
+  <programme start="20210321190000 -0600" stop="20210321193000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321193000 -0600" stop="20210321200000 -0600" channel="Star">
+  <programme start="20210321193000 -0600" stop="20210321200000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321200000 -0600" stop="20210321203000 -0600" channel="Star">
+  <programme start="20210321200000 -0600" stop="20210321203000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321203000 -0600" stop="20210321210000 -0600" channel="Star">
+  <programme start="20210321203000 -0600" stop="20210321210000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321210000 -0600" stop="20210321213000 -0600" channel="Star">
+  <programme start="20210321210000 -0600" stop="20210321213000 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321213000 -0600" stop="20210321215500 -0600" channel="Star">
+  <programme start="20210321213000 -0600" stop="20210321215500 -0600" channel="Star Channel">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210321215500 -0600" stop="20210322001500 -0600" channel="Star">
+  <programme start="20210321215500 -0600" stop="20210322001500 -0600" channel="Star Channel">
     <title lang="es">Terminator: Destino Oculto</title>
   </programme>
   <programme start="20210320003000 -0600" stop="20210320021500 -0600" channel="Star Life">
@@ -2605,5 +2605,86 @@
   </programme>
   <programme start="20210321235200 -0600" stop="20210322014500 -0600" channel="Star Life">
     <title lang="es">La chica de al lado</title>
+  </programme>
+  <programme start="20210320002100 -0600" stop="20210320020100 -0600" channel="Star Hits">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+  </programme>
+  <programme start="20210320020100 -0600" stop="20210320034400 -0600" channel="Star Hits">
+    <title lang="es">La vigilante del futuro</title>
+  </programme>
+  <programme start="20210320034400 -0600" stop="20210320052300 -0600" channel="Star Hits">
+    <title lang="es">El Redentor</title>
+  </programme>
+  <programme start="20210320052300 -0600" stop="20210320065400 -0600" channel="Star Hits">
+    <title lang="es">Megamente</title>
+  </programme>
+  <programme start="20210320065400 -0600" stop="20210320083600 -0600" channel="Star Hits">
+    <title lang="es">Dora y la Ciudad Perdida</title>
+  </programme>
+  <programme start="20210320083600 -0600" stop="20210320105100 -0600" channel="Star Hits">
+    <title lang="es">Hulk</title>
+  </programme>
+  <programme start="20210320105100 -0600" stop="20210320124000 -0600" channel="Star Hits">
+    <title lang="es">Hulk El hombre increíble</title>
+  </programme>
+  <programme start="20210320124000 -0600" stop="20210320151100 -0600" channel="Star Hits">
+    <title lang="es">Gladiador</title>
+  </programme>
+  <programme start="20210320151100 -0600" stop="20210320171800 -0600" channel="Star Hits">
+    <title lang="es">Rápidos y Furiosos 5</title>
+  </programme>
+  <programme start="20210320171800 -0600" stop="20210320190000 -0600" channel="Star Hits">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210320190000 -0600" stop="20210320210400 -0600" channel="Star Hits">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210320210400 -0600" stop="20210320232000 -0600" channel="Star Hits">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210320232000 -0600" stop="20210321013400 -0600" channel="Star Hits">
+    <title lang="es">Logan Wolverine</title>
+  </programme>
+  <programme start="20210321232000 -0600" stop="20210322013400 -0600" channel="Star Hits">
+    <title lang="es">Logan Wolverine</title>
+  </programme>
+  <programme start="20210322013400 -0600" stop="20210322031700 -0600" channel="Star Hits">
+    <title lang="es">Si Decido Quedarme</title>
+  </programme>
+  <programme start="20210322031700 -0600" stop="20210322053100 -0600" channel="Star Hits">
+    <title lang="es">El Vuelo</title>
+  </programme>
+  <programme start="20210322053100 -0600" stop="20210322055100 -0600" channel="Star Hits">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210322055100 -0600" stop="20210322081100 -0600" channel="Star Hits">
+    <title lang="es">Jack Reacher</title>
+  </programme>
+  <programme start="20210322081100 -0600" stop="20210322094300 -0600" channel="Star Hits">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20210322094300 -0600" stop="20210322111800 -0600" channel="Star Hits">
+    <title lang="es">Cómo Entrenar a tu Dragón 2</title>
+  </programme>
+  <programme start="20210322111800 -0600" stop="20210322125800 -0600" channel="Star Hits">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+  </programme>
+  <programme start="20210322125800 -0600" stop="20210322143900 -0600" channel="Star Hits">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210322143900 -0600" stop="20210322164400 -0600" channel="Star Hits">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210322164400 -0600" stop="20210322190000 -0600" channel="Star Hits">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210322190000 -0600" stop="20210322203300 -0600" channel="Star Hits">
+    <title lang="es">Madre oscura</title>
+  </programme>
+  <programme start="20210322203300 -0600" stop="20210322224100 -0600" channel="Star Hits">
+    <title lang="es">Rápidos y Furiosos 5</title>
+  </programme>
+  <programme start="20210322224100 -0600" stop="20210323003500 -0600" channel="Star Hits">
+    <title lang="es">Volver al Futuro</title>
   </programme>
 </tv>
