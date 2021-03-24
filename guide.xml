@@ -257,6 +257,9 @@
   <programme start="20210324090000 -0600" stop="20210324093000 -0600" channel="Azteca 7">
     <title lang="es">44 Gatos</title>
   </programme>
+  <programme start="20210324213000 -0600" stop="20210324233000 -0600" channel="Azteca 7">
+    <title lang="es">Hawaii 5-0</title>
+  </programme>
   <programme start="20210323003500 -0600" stop="20210323010200 -0600" channel="Discovery h&amp;h">
     <title lang="es">Rescatando propiedades</title>
   </programme>
@@ -1298,106 +1301,103 @@
   <programme start="20210323220000 -0600" stop="20210324000900 -0600" channel="Warner Channel">
     <title lang="es">La Quinta Ola</title>
   </programme>
-  <programme start="20210324220000 -0600" stop="20210325000900 -0600" channel="Warner Channel">
-    <title lang="es">La Quinta Ola</title>
-  </programme>
-  <programme start="20210325000900 -0600" stop="20210325010000 -0600" channel="Warner Channel">
+  <programme start="20210324000900 -0600" stop="20210324010000 -0600" channel="Warner Channel">
     <title lang="es">Legacies</title>
   </programme>
-  <programme start="20210325010000 -0600" stop="20210325012400 -0600" channel="Warner Channel">
+  <programme start="20210324010000 -0600" stop="20210324012400 -0600" channel="Warner Channel">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20210325012400 -0600" stop="20210325015100 -0600" channel="Warner Channel">
+  <programme start="20210324012400 -0600" stop="20210324015100 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325015100 -0600" stop="20210325021500 -0600" channel="Warner Channel">
+  <programme start="20210324015100 -0600" stop="20210324021500 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325021500 -0600" stop="20210325024100 -0600" channel="Warner Channel">
+  <programme start="20210324021500 -0600" stop="20210324024100 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325024100 -0600" stop="20210325030500 -0600" channel="Warner Channel">
+  <programme start="20210324024100 -0600" stop="20210324030500 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325030500 -0600" stop="20210325032700 -0600" channel="Warner Channel">
+  <programme start="20210324030500 -0600" stop="20210324032700 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325032700 -0600" stop="20210325034700 -0600" channel="Warner Channel">
+  <programme start="20210324032700 -0600" stop="20210324034700 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325034700 -0600" stop="20210325040900 -0600" channel="Warner Channel">
+  <programme start="20210324034700 -0600" stop="20210324040900 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325040900 -0600" stop="20210325043600 -0600" channel="Warner Channel">
+  <programme start="20210324040900 -0600" stop="20210324043600 -0600" channel="Warner Channel">
     <title lang="es">Friends</title>
   </programme>
-  <programme start="20210325043600 -0600" stop="20210325053800 -0600" channel="Warner Channel">
+  <programme start="20210324043600 -0600" stop="20210324053800 -0600" channel="Warner Channel">
     <title lang="es">Supergirl</title>
   </programme>
-  <programme start="20210325053800 -0600" stop="20210325060000 -0600" channel="Warner Channel">
+  <programme start="20210324053800 -0600" stop="20210324060000 -0600" channel="Warner Channel">
     <title lang="es">The Middle</title>
   </programme>
-  <programme start="20210325060000 -0600" stop="20210325073100 -0600" channel="Warner Channel">
+  <programme start="20210324060000 -0600" stop="20210324073100 -0600" channel="Warner Channel">
     <title lang="es">Supergirl</title>
   </programme>
-  <programme start="20210325073100 -0600" stop="20210325075700 -0600" channel="Warner Channel">
+  <programme start="20210324073100 -0600" stop="20210324075700 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325075700 -0600" stop="20210325082400 -0600" channel="Warner Channel">
+  <programme start="20210324075700 -0600" stop="20210324082400 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325082400 -0600" stop="20210325085100 -0600" channel="Warner Channel">
+  <programme start="20210324082400 -0600" stop="20210324085100 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325085100 -0600" stop="20210325091800 -0600" channel="Warner Channel">
+  <programme start="20210324085100 -0600" stop="20210324091800 -0600" channel="Warner Channel">
     <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20210325091800 -0600" stop="20210325111300 -0600" channel="Warner Channel">
+  <programme start="20210324091800 -0600" stop="20210324111300 -0600" channel="Warner Channel">
     <title lang="es">El ilusionista</title>
   </programme>
-  <programme start="20210325111300 -0600" stop="20210325132800 -0600" channel="Warner Channel">
+  <programme start="20210324111300 -0600" stop="20210324132800 -0600" channel="Warner Channel">
     <title lang="es">Cadena De Favores</title>
   </programme>
-  <programme start="20210325132800 -0600" stop="20210325135300 -0600" channel="Warner Channel">
+  <programme start="20210324132800 -0600" stop="20210324135300 -0600" channel="Warner Channel">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20210325135300 -0600" stop="20210325141700 -0600" channel="Warner Channel">
+  <programme start="20210324135300 -0600" stop="20210324141700 -0600" channel="Warner Channel">
     <title lang="es">Friends</title>
   </programme>
-  <programme start="20210325141700 -0600" stop="20210325143900 -0600" channel="Warner Channel">
+  <programme start="20210324141700 -0600" stop="20210324143900 -0600" channel="Warner Channel">
     <title lang="es">Friends</title>
   </programme>
-  <programme start="20210325143900 -0600" stop="20210325150400 -0600" channel="Warner Channel">
+  <programme start="20210324143900 -0600" stop="20210324150400 -0600" channel="Warner Channel">
     <title lang="es">Friends</title>
   </programme>
-  <programme start="20210325150400 -0600" stop="20210325152700 -0600" channel="Warner Channel">
+  <programme start="20210324150400 -0600" stop="20210324152700 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325152700 -0600" stop="20210325155200 -0600" channel="Warner Channel">
+  <programme start="20210324152700 -0600" stop="20210324155200 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325155200 -0600" stop="20210325161400 -0600" channel="Warner Channel">
+  <programme start="20210324155200 -0600" stop="20210324161400 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325161400 -0600" stop="20210325163700 -0600" channel="Warner Channel">
+  <programme start="20210324161400 -0600" stop="20210324163700 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325163700 -0600" stop="20210325182600 -0600" channel="Warner Channel">
+  <programme start="20210324163700 -0600" stop="20210324182600 -0600" channel="Warner Channel">
     <title lang="es">Belleza Inesperada</title>
   </programme>
-  <programme start="20210325182600 -0600" stop="20210325203000 -0600" channel="Warner Channel">
+  <programme start="20210324182600 -0600" stop="20210324203000 -0600" channel="Warner Channel">
     <title lang="es">La Quinta Ola</title>
   </programme>
-  <programme start="20210325203000 -0600" stop="20210325213000 -0600" channel="Warner Channel">
+  <programme start="20210324203000 -0600" stop="20210324213000 -0600" channel="Warner Channel">
     <title lang="es">Riverdale</title>
   </programme>
-  <programme start="20210325213000 -0600" stop="20210325220000 -0600" channel="Warner Channel">
+  <programme start="20210324213000 -0600" stop="20210324220000 -0600" channel="Warner Channel">
     <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20210325220000 -0600" stop="20210325235000 -0600" channel="Warner Channel">
+  <programme start="20210324220000 -0600" stop="20210324235000 -0600" channel="Warner Channel">
     <title lang="es">Los indestructibles 2</title>
   </programme>
-  <programme start="20210325235000 -0600" stop="20210326003500 -0600" channel="Warner Channel">
+  <programme start="20210324235000 -0600" stop="20210325003500 -0600" channel="Warner Channel">
     <title lang="es">Riverdale</title>
   </programme>
   <programme start="20210323014500 -0600" stop="20210323024000 -0600" channel="Sony">
