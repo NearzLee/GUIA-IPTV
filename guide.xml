@@ -278,9 +278,6 @@
   <programme start="20210327051500 -0600" stop="20210327053000 -0600" channel="Azteca 7">
     <title lang="es">RTC</title>
   </programme>
-  <programme start="20210327053000 -0600" stop="20210327063000 -0600" channel="Azteca 7">
-    <title lang="es">Paid Programming</title>
-  </programme>
   <programme start="20210327063000 -0600" stop="20210327070000 -0600" channel="Azteca 7">
     <title lang="es">Amigazazo</title>
   </programme>
